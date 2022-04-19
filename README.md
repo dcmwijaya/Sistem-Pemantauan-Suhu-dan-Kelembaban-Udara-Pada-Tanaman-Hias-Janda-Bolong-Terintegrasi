@@ -18,7 +18,7 @@ Project IoT - Informatika UPN Veteran Jawa Timur
 | Software (Website) | Front-End | PHP native + Bootstrap |
 | Software (ThingSpeak) | Public | 2 Field Channel (Graphic-1, Graphic-2), 2 Widget (Numeric Display) |
 | Software (Arduino IDE) | Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, CTBot |
-| Hardware | Komponen Mekatronika | Nodemcu, Kabel Jumper (Female-Female), Sensor DHT22, Casing |
+| Hardware | Komponen Mekatronika | Nodemcu ESP8266, Kabel Jumper (Female-Female), Sensor DHT22, Casing |
 
 <br>
 
