@@ -11,67 +11,83 @@
 <strong>Team Project - Informatics UPN Veteran Jatim</strong><br>
 This project is closely related to agricultural technology, where this tool is used to monitor changes in air temperature and humidity in the environment around widow bolong plants in real time remotely anytime and anywhere. This tool is equipped with a Bot of Things (BoT) based interface that aims to facilitate users in caring for these ornamental plants. Janda bolong is a plant from the Araceae or taro species that can survive optimally at temperatures of 23-30 ° C and air humidity less than 40%.
 
-<br>
+<br><br>
 
-## Support Detail
-| Platform/Topic | Bagian | Keterangan |
-| --- | --- | --- |
-| Software (Website) | Front-End | PHP native + Bootstrap |
-| Software (ThingSpeak) | Public | 2 Field Channel (Graphic-1, Graphic-2), 2 Widget (Numeric Display) |
-| Software (Arduino IDE) | Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, CTBot |
-| Hardware | Komponen Mekatronika | Nodemcu ESP8266, Kabel Jumper (Female-Female), Sensor DHT22, Casing |
+## Features / Framework / Tools
+| Media | Description |
+| --- | --- |
+| Platform | ThingSpeak |
+| IoT Protocol | HTTP |
+| Board Development | NodeMCU |
+| Code Editor | Arduino IDE |
+| Arduino Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
+| Sensor | DHT22 (Air Temperature & Humidity) |
+| Other Components | Jumper cable, Breadboard, & Casing  |
 
-<br>
+<br><br>
 
-## Environment
-1. Download Arduino IDE
+## Download & Install
+Download Arduino IDE :
 ```bash
 https://www.arduino.cc/en/software
 ```
-2. Cantumkan Boards Manager Urls
+
+<br><br>
+
+## Settings
+1. Open the Arduino IDE first, then enter the Boards Manager Url by copying the following link:
 ```bash
-https://arduino.esp8266.com/stable/package_esp8266com_index.json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
-3. Setting Board di Arduino IDE
+2. Board Setup in Arduino IDE
    <ul>
-      <li>Cara: klik Boards Manager -> ESP8266 Boards -> NodeMCU 1.0(ESP-12E Module).</li>
+      <li>Method: click Boards Manager -> ESP8266 Boards -> NodeMCU 1.0 (ESP-12E Module).</li>
    </ul>
-4. Setting Port di Arduino IDE
+3. Port Setup in Arduino IDE
    <ul>
-      <li>Cara: klik Port -> Pilihkan sesuai port device anda (dapat anda lihat di device manager).</li>
+      <li>Method: click Port -> Choose according to your device port (you can see in device manager).</li>
    </ul>
-5. Install Library di Arduino IDE
+4. Install Library in Arduino IDE
    <ul>
-      <li>Cara: klik Tools -> Manage Libraries -> Install Library sesuai dengan yang ada di tabel Support Detail.</li>
+      <li>Method: click Tools -> Manage Libraries -> Install Library according to project needs.</li>
    </ul>
 
-<br>
+<br><br>
 
-## Perancangan Hardware
-![NodeMcu_DHT22](https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg)
+## Hardware Design
+<img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
-<br>
+<br><br>
 
-## Cara Menerapkan dan Menggunakan Aplikasi
-1. Download Repository ini.
-2. Pastikan anda memiliki komponen elektronik yang dibutuhkan sesuai tabel Support Detail.
-3. Pastikan komponen anda telah dirancang sesuai pada bagian Perancangan Hardware diatas.
-4. Pastikan terkoneksi dengan baik (Menyesuaikan settingan Board dan Port).
-5. Disarankan untuk membuat akun ThingSpeak beserta Channelnya.
-6. Disarankan mengubah code arduino pada bagian ChannelID dan APIKey sesuai ThingSpeak anda.
-7. Jika tidak melakukan 2 point diatas (point 2 dan 3) tidak apa-apa.
-8. Buatlah bot Telegram (tidak disarankan memakai bot telegram yang sudah ada, karena beresiko crash aktivitas).
-9. Ubahlah code arduino pada bagian *ssid (Nama Wifi yang anda gunakan), *password (password Wifi yang anda gunakan), dan BOTtoken (token bot telegram anda).
-10. Selesai.
+## Running
+1. Download this Repository.
+2. Make sure you have the necessary electronic components.
+3. Make sure your components have been designed according to the diagram.
+4. Make sure the components are well connected (Adjust Board and Port settings).
+5. It is recommended to create a Broker account along with this service.
+6. Make sure to change the arduino program code in the "Router" section according to the device you are using.
+7. If you do not apply points 2 and 3 for the purposes of project development, it is fine, but please note that some things need to be changed in order to function properly.
+8. Done, good luck.
 
-<br>
+<br><br>
 
-## Dokumentasi
-![GambarAlat3](https://user-images.githubusercontent.com/54527592/133962095-8baa3737-3bf0-4d6b-bc65-c0cff1c37021.jpg)
-![MonitoringSuhu](https://user-images.githubusercontent.com/54527592/133962162-8856e20d-9e84-43c4-ac4a-0316d2c65004.jpg)
-![Bot_Telegram1](https://user-images.githubusercontent.com/54527592/133962195-70e38df7-8e56-422b-ba30-3b42a642c62b.JPG)
-![Bot_Telegram2](https://user-images.githubusercontent.com/54527592/133962202-2399d06a-4f97-4335-86b4-4c043d7d1d17.JPG)
+## Implementation
+<img src="https://user-images.githubusercontent.com/54527592/133962095-8baa3737-3bf0-4d6b-bc65-c0cff1c37021.jpg">
+<img src="https://user-images.githubusercontent.com/54527592/133962162-8856e20d-9e84-43c4-ac4a-0316d2c65004.jpg">
+<img src="https://user-images.githubusercontent.com/54527592/133962195-70e38df7-8e56-422b-ba30-3b42a642c62b.JPG">
+<img src="https://user-images.githubusercontent.com/54527592/133962202-2399d06a-4f97-4335-86b4-4c043d7d1d17.JPG">
 
 <br>
 
-Catatan : Project ini membutuhkan internet untuk menjalankan aplikasinya.
+Notes: This project requires internet to run the application.<br>
+<b>More information:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Click Here</u></a>
+<br><br><br>
+
+## LICENSE
+MIT License - Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
