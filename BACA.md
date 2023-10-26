@@ -62,14 +62,14 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 <br><br>
 
 ## Menjalankan
-1. Download this Repository.
-2. Make sure you have the necessary electronic components.
-3. Make sure your components have been designed according to the diagram.
-4. Make sure the components are well connected (Adjust Board and Port settings).
-5. It is recommended to create a Broker account along with this service.
-6. Make sure to change the arduino program code in the "Router" section according to the device you are using.
-7. If you do not apply points 2 and 3 for the purposes of project development, it is fine, but please note that some things need to be changed in order to function properly.
-8. Done, good luck.
+1. Unduh Repositori ini.
+2. Pastikan Anda memiliki komponen elektronik yang diperlukan.
+3. Pastikan komponen Anda telah dirancang sesuai dengan diagram.
+4. Pastikan komponen terhubung dengan baik (Sesuaikan pengaturan Board dan Port).
+5. Disarankan untuk membuat akun Broker sekaligus dengan layanannya.
+6. Pastikan untuk mengubah kode program arduino di bagian "Router" sesuai dengan perangkat yang Anda gunakan.
+7. Jika Anda tidak menerapkan poin 2 dan 3 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
+8. Selesai, semoga berhasil.
 
 <br><br>
 
