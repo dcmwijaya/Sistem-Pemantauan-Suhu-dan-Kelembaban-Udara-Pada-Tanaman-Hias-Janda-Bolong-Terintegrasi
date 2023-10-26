@@ -79,7 +79,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 <br>
 
-Notes: This project requires internet to run the application.<br>
+Notes: This project requires internet to run the application.<br><br>
 <b>More information:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Click Here</u></a>
 <br><br><br>
 
