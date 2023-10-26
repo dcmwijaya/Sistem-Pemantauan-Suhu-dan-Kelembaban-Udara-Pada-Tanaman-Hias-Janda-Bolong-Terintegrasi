@@ -8,7 +8,7 @@
 
 
 # Monitoring-Suhu-Kelembapan-Udara-Tanaman-Hias-Janda-Bolong
-Team Project - Informatics UPN Veteran Jatim
+<strong>Team Project - Informatics UPN Veteran Jatim</strong><br>
 This project is closely related to agricultural technology, where this tool is used to monitor changes in air temperature and humidity in the environment around widow bolong plants in real time remotely anytime and anywhere. This tool is equipped with a Bot of Things (BoT) based interface that aims to facilitate users in caring for these ornamental plants. Janda bolong is a plant from the Araceae or taro species that can survive optimally at temperatures of 23-30 ° C and air humidity less than 40%.
 
 <br>
