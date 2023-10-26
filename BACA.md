@@ -20,6 +20,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Protokol IoT | HTTP |
 | Papan Pengembangan | NodeMCU |
 | Editor Kode | Arduino IDE & Visual Studio Code |
+| Telegram | API Bot Telegram |
 | Desain Tata Letak | Bootstrap |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
 | Sensor | DHT22 (Air Temperature & Humidity) |
