@@ -27,40 +27,40 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Download & Install
-Download Arduino IDE :
+## Unduh & Instal
+Unduh Arduino IDE :
 ```bash
 https://www.arduino.cc/en/software
 ```
 
 <br><br>
 
-## Settings
-1. Open the Arduino IDE first, then enter the Boards Manager Url by copying the following link:
+## Pengaturan
+1. Buka Arduino IDE terlebih dahulu, kemudian masukkan Url Boards Manager dengan cara menyalin tautan berikut:
 ```bash
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 2. Board Setup in Arduino IDE
    <ul>
-      <li>Method: click Boards Manager -> ESP8266 Boards -> NodeMCU 1.0 (ESP-12E Module).</li>
+      <li>Cara: klik Boards Manager -> ESP8266 Boards -> NodeMCU 1.0 (ESP-12E Module).</li>
    </ul>
-3. Port Setup in Arduino IDE
+3. Pengaturan Port di Arduino IDE
    <ul>
-      <li>Method: click Port -> Choose according to your device port (you can see in device manager).</li>
+      <li>Cara: klik Port -> Pilih sesuai dengan port perangkat Anda (Anda dapat melihatnya di Device Manager).</li>
    </ul>
-4. Install Library in Arduino IDE
+4. Instal pustaka di Arduino IDE
    <ul>
-      <li>Method: click Tools -> Manage Libraries -> Install Library according to project needs.</li>
+      <li>Cara: klik Tools -> Manage Libraries -> Instal Pustaka sesuai dengan kebutuhan proyek.</li>
    </ul>
 
 <br><br>
 
-## Hardware Design
+## Perancangan Perangkat Keras
 <img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
 <br><br>
 
-## Running
+## Menjalankan
 1. Download this Repository.
 2. Make sure you have the necessary electronic components.
 3. Make sure your components have been designed according to the diagram.
@@ -72,7 +72,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 <br><br>
 
-## Implementation
+## Implementasi
 <img src="https://user-images.githubusercontent.com/54527592/133962095-8baa3737-3bf0-4d6b-bc65-c0cff1c37021.jpg">
 <img src="https://user-images.githubusercontent.com/54527592/133962162-8856e20d-9e84-43c4-ac4a-0316d2c65004.jpg">
 <img src="https://user-images.githubusercontent.com/54527592/133962195-70e38df7-8e56-422b-ba30-3b42a642c62b.JPG">
@@ -80,15 +80,15 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 <br>
 
-Notes: This project requires internet to run the application.<br><br>
-<b>More information:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Click Here</u></a>
+Catatan: Proyek ini membutuhkan internet untuk menjalankan aplikasi.<br><br>
+<b>Informasi lebih lanjut:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Klik Disini</u></a>
 <br><br><br>
 
-## LICENSE
-MIT License - Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom
+## LISENSI
+LISENSI MIT - Hak Cipta (c) 2023 - Devan C. M. Wijaya, S.Kom
 
-Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
-The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus menyertai semua salinan atau bagian penting dari Perangkat Lunak.
 
-IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
+DALAM HAL APAPUN, PENULIS ATAU PEMEGANG HAK CIPTA DI SINI TETAP MEMILIKI HAK KEPEMILIKAN PENUH. PERANGKAT LUNAK INI DISEDIAKAN SEBAGAIMANA ADANYA, TANPA JAMINAN APAPUN, BAIK TERSURAT MAUPUN TERSIRAT, OLEH KARENA ITU JIKA TERJADI KERUSAKAN, KEHILANGAN, ATAU LAINNYA YANG TIMBUL DARI PENGGUNAAN ATAU URUSAN LAIN DALAM PERANGKAT LUNAK INI, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB, KARENA PENGGUNAAN PERANGKAT LUNAK INI TIDAK DIPAKSAKAN SAMA SEKALI, SEHINGGA RISIKO ADALAH MILIK ANDA SENDIRI.
