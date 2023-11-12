@@ -72,20 +72,24 @@ https://www.arduino.cc/en/software
     
 6. If you don't apply points 1 and 2 for the purposes of project development that's fine, but please note that some things need to be changed for it to work properly.
 
-7. Download and extract this repository.
-   
-8. Rename the directory ``` System-Monitoring-Temperature-and-Humidity-On-An Ornamental-Plant-Dowels-Integrated ``` to ``` Web-Monitoring ```.
+7. Ensure that the device is connected to the internet.
   
-9. Move the ``` Monitoring-Web ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.
-  
-10. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.
+8. Make sure all things have been created.
+
+9. Download and extract this repository.
    
-11. To ``` access the website ```, open your ``` browser ``` by writing:
+10. Rename the directory ``` System-Monitoring-Temperature-and-Humidity-On-An Ornamental-Plant-Dowels-Integrated ``` to ``` Web-Monitoring ```.
+  
+11. Move the ``` Monitoring-Web ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.
+  
+12. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.
+   
+13. To ``` access the website ```, open your ``` browser ``` by writing:
     ```bash
     localhost//Monitoring-Web/Website/iot-monstera/index.php
     ```
   
-12. Please enjoy [Done].
+14. Please enjoy [Done].
 
 <br><br>
 
