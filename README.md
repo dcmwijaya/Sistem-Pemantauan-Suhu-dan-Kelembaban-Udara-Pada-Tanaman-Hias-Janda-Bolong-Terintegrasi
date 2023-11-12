@@ -80,7 +80,7 @@ https://www.arduino.cc/en/software
   
 10. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.
    
-11. To access the website, open your browser by writing:
+11. To ``` access the website ```, open your ``` browser ``` by writing:
     ```bash
     localhost//Monitoring-Web/Website/iot-monstera/index.php
     ```
