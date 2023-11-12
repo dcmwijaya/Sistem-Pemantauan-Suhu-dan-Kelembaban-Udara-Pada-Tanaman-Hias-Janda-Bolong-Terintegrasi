@@ -36,27 +36,21 @@ https://www.arduino.cc/en/software
 <br><br>
 
 ## Settings
-1. Open the Arduino IDE first, then enter the Boards Manager Url by copying the following link:
+1. Open the ``` Arduino IDE ``` first, then enter the ``` Boards Manager Url ``` by copying the following link:
    
    ```bash
    http://arduino.esp8266.com/stable/package_esp8266com_index.json
    ```
 <br>
 
-2. Board Setup in Arduino IDE
-   <ul>
-      <li>Method: click Boards Manager -> ESP8266 Boards -> NodeMCU 1.0 (ESP-12E Module).</li>
-   </ul>
-   <br>
-3. Port Setup in Arduino IDE
-   <ul>
-      <li>Method: click Port -> Choose according to your device port (you can see in device manager).</li>
-   </ul>
-   <br>
-4. Install Library in Arduino IDE
-   <ul>
-      <li>Method: click Tools -> Manage Libraries -> Install Library according to project needs.</li>
-   </ul>
+2. ``` Board Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Boards Manager ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
+   <br><br><br>
+3. ``` Port Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.
+   <br><br><br>
+4. ``` Install Library ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Manage Libraries ``` -> ``` Install Library ``` according to project needs.
 
 <br><br>
 
@@ -107,8 +101,8 @@ https://www.arduino.cc/en/software
 
 <br>
 
-Notes: This project requires internet to run the application.<br><br>
-<b>More information:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Click Here</u></a>
+<strong>Notes:</strong> This project requires internet to run the application.<br><br>
+<strong>More information:</strong> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Click Here</u></a>
 
 <br><br>
 
