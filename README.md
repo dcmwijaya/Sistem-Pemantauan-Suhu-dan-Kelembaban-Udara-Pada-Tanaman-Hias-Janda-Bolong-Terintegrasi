@@ -115,8 +115,6 @@ https://www.arduino.cc/en/software
 </table>
 
 <br>
-
-<strong>Notes:</strong> This project requires internet to run the application.<br><br>
 <strong>More information:</strong> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Click Here</u></a>
 
 <br><br>
