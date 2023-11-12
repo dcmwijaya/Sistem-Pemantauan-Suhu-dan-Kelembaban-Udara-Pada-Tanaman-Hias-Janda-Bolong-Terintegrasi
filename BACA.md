@@ -60,21 +60,32 @@ https://www.arduino.cc/en/software
 <br><br>
 
 ## Memulai
-1. Unduh Repositori ini.
+1. Pastikan anda memiliki komponen elektronik yang diperlukan.
    
-2. Pastikan Anda memiliki komponen elektronik yang diperlukan.
+2. Pastikan komponen anda telah dirancang sesuai dengan diagram.
    
-3. Pastikan komponen Anda telah dirancang sesuai dengan diagram.
+3. Pastikan komponen terhubung dengan baik ``` (Sesuaikan pengaturan Board dan Port) ```.
    
-4. Pastikan komponen terhubung dengan baik ``` (Sesuaikan pengaturan Board dan Port) ```.
-   
-5. Disarankan untuk ``` membuat akun Platform IoT ``` sekaligus dengan layanannya.
+4. Disarankan untuk ``` membuat akun Platform IoT ``` sekaligus dengan layanannya.
     
-6. Pastikan untuk mengubah kode program arduino di bagian ``` Router ``` sesuai dengan perangkat yang Anda gunakan.
+5. Pastikan untuk mengubah kode program arduino di bagian ``` Router ``` sesuai dengan perangkat yang Anda gunakan.
     
-7. Jika Anda tidak menerapkan poin 2 dan 3 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
-    
-8. Selesai, semoga berhasil.
+6. Jika Anda tidak menerapkan poin 2 dan 3 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
+
+7. Unduh dan ekstrak repositori ini.
+   
+8. Ubah nama direktori ``` Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi ``` menjadi ``` Monitoring-Web ```.
+  
+9. Pindahkan direktori ``` Monitoring-Web ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.
+  
+10. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
+   
+11. Untuk mengakses situs web, buka peramban Anda dengan menuliskan:
+    ```bash
+    localhost//Monitoring-Web/Website/iot-monstera/index.php
+    ```
+  
+12. Selamat menikmati [Selesai].
 
 <br><br>
 
