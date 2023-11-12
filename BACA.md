@@ -36,27 +36,21 @@ https://www.arduino.cc/en/software
 <br><br>
 
 ## Pengaturan
-1. Buka Arduino IDE terlebih dahulu, kemudian masukkan Url Boards Manager dengan cara menyalin tautan berikut:
+1. Buka ``` Arduino IDE ``` terlebih dahulu, lalu masuk ke ``` Boards Manager Url ``` dengan cara menyalin tautan berikut:
    
    ```bash
    http://arduino.esp8266.com/stable/package_esp8266com_index.json
    ```
 <br>
 
-2. Board Setup in Arduino IDE
-   <ul>
-      <li>Cara: klik Boards Manager -> ESP8266 Boards -> NodeMCU 1.0 (ESP-12E Module).</li>
-   </ul>
-   <br>
-3. Pengaturan Port di Arduino IDE
-   <ul>
-      <li>Cara: klik Port -> Pilih sesuai dengan port perangkat Anda (Anda dapat melihatnya di Device Manager).</li>
-   </ul>
-   <br>
-4. Instal pustaka di Arduino IDE
-   <ul>
-      <li>Cara: klik Tools -> Manage Libraries -> Instal Pustaka sesuai dengan kebutuhan proyek.</li>
-   </ul>
+2. ``` Pengaturan Board ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Boards Manager ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
+   <br><br><br>
+3. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.
+   <br><br><br>
+4. ``` Instal pustaka ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Tools ``` -> ``` Manage Libraries ``` -> ``` Install Library ``` sesuai dengan kebutuhan proyek.
 
 <br><br>
 
@@ -107,8 +101,8 @@ https://www.arduino.cc/en/software
 
 <br>
 
-Catatan: Proyek ini membutuhkan internet untuk menjalankan aplikasi.<br><br>
-<b>Informasi lebih lanjut:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Klik Disini</u></a>
+<strong>Catatan:</strong> Proyek ini membutuhkan internet untuk menjalankan aplikasi.<br><br>
+<strong>Informasi lebih lanjut:</strong> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Klik Disini</u></a>
 
 <br><br>
 
