@@ -28,8 +28,7 @@ This project is closely related to agricultural technology, where this tool is u
 
 <br><br>
 
-## Download & Install
-Download Arduino IDE :
+## Download & Install Arduino IDE
 ```bash
 https://www.arduino.cc/en/software
 ```
@@ -38,17 +37,21 @@ https://www.arduino.cc/en/software
 
 ## Settings
 1. Open the Arduino IDE first, then enter the Boards Manager Url by copying the following link:
-```bash
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
-```
+   ```bash
+   http://arduino.esp8266.com/stable/package_esp8266com_index.json
+   ```
+<br>
+
 2. Board Setup in Arduino IDE
    <ul>
       <li>Method: click Boards Manager -> ESP8266 Boards -> NodeMCU 1.0 (ESP-12E Module).</li>
    </ul>
+   <br>
 3. Port Setup in Arduino IDE
    <ul>
       <li>Method: click Port -> Choose according to your device port (you can see in device manager).</li>
    </ul>
+   <br>
 4. Install Library in Arduino IDE
    <ul>
       <li>Method: click Tools -> Manage Libraries -> Install Library according to project needs.</li>
@@ -61,14 +64,21 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 <br><br>
 
-## Running
+## Get Started
 1. Download this Repository.
+   
 2. Make sure you have the necessary electronic components.
+   
 3. Make sure your components have been designed according to the diagram.
-4. Make sure the components are well connected (Adjust Board and Port settings).
-5. It is recommended to create a Broker account along with this service.
-6. Make sure to change the arduino program code in the "Router" section according to the device you are using.
+   
+4. Make sure the components are well connected ``` (Adjust Board and Port settings) ```.
+   
+5. It is recommended to ``` create a IoT Platform account ``` along with this service.
+    
+6. Make sure to change the arduino program code in the ``` Router ``` section according to the device you are using.
+    
 7. If you do not apply points 2 and 3 for the purposes of project development, it is fine, but please note that some things need to be changed in order to function properly.
+    
 8. Done, good luck.
 
 <br><br>
@@ -94,11 +104,17 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 </tr>
 </table>
 
-<br>
+<br><br>
 
 Notes: This project requires internet to run the application.<br><br>
 <b>More information:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Click Here</u></a>
-<br><br><br>
+
+<br><br>
+
+## Disclaimer
+This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+
+<br><br>
 
 ## LICENSE
 MIT License - Copyright (c) 2020 - Devan C. M. Wijaya, S.Kom
