@@ -28,8 +28,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Unduh & Instal
-Unduh Arduino IDE :
+## Unduh & Instal Arduino IDE
 ```bash
 https://www.arduino.cc/en/software
 ```
@@ -38,17 +37,21 @@ https://www.arduino.cc/en/software
 
 ## Pengaturan
 1. Buka Arduino IDE terlebih dahulu, kemudian masukkan Url Boards Manager dengan cara menyalin tautan berikut:
-```bash
-http://arduino.esp8266.com/stable/package_esp8266com_index.json
-```
+   ```bash
+   http://arduino.esp8266.com/stable/package_esp8266com_index.json
+   ```
+<br>
+
 2. Board Setup in Arduino IDE
    <ul>
       <li>Cara: klik Boards Manager -> ESP8266 Boards -> NodeMCU 1.0 (ESP-12E Module).</li>
    </ul>
+   <br>
 3. Pengaturan Port di Arduino IDE
    <ul>
       <li>Cara: klik Port -> Pilih sesuai dengan port perangkat Anda (Anda dapat melihatnya di Device Manager).</li>
    </ul>
+   <br>
 4. Instal pustaka di Arduino IDE
    <ul>
       <li>Cara: klik Tools -> Manage Libraries -> Instal Pustaka sesuai dengan kebutuhan proyek.</li>
@@ -61,14 +64,21 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 <br><br>
 
-## Menjalankan
+## Memulai
 1. Unduh Repositori ini.
+   
 2. Pastikan Anda memiliki komponen elektronik yang diperlukan.
+   
 3. Pastikan komponen Anda telah dirancang sesuai dengan diagram.
-4. Pastikan komponen terhubung dengan baik (Sesuaikan pengaturan Board dan Port).
-5. Disarankan untuk membuat akun Broker sekaligus dengan layanannya.
-6. Pastikan untuk mengubah kode program arduino di bagian "Router" sesuai dengan perangkat yang Anda gunakan.
+   
+4. Pastikan komponen terhubung dengan baik ``` (Sesuaikan pengaturan Board dan Port) ```.
+   
+5. Disarankan untuk ``` membuat akun Platform IoT ``` sekaligus dengan layanannya.
+    
+6. Pastikan untuk mengubah kode program arduino di bagian ``` Router ``` sesuai dengan perangkat yang Anda gunakan.
+    
 7. Jika Anda tidak menerapkan poin 2 dan 3 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
+    
 8. Selesai, semoga berhasil.
 
 <br><br>
@@ -98,7 +108,13 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Catatan: Proyek ini membutuhkan internet untuk menjalankan aplikasi.<br><br>
 <b>Informasi lebih lanjut:</b> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Klik Disini</u></a>
-<br><br><br>
+
+<br><br>
+
+## Penafian
+Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+
+<br><br>
 
 ## LISENSI
 LISENSI MIT - Hak Cipta (c) 2020 - Devan C. M. Wijaya, S.Kom
