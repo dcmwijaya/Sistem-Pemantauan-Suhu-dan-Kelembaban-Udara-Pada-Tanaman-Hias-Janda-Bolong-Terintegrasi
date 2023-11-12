@@ -37,6 +37,7 @@ https://www.arduino.cc/en/software
 
 ## Settings
 1. Open the Arduino IDE first, then enter the Boards Manager Url by copying the following link:
+   
    ```bash
    http://arduino.esp8266.com/stable/package_esp8266com_index.json
    ```
