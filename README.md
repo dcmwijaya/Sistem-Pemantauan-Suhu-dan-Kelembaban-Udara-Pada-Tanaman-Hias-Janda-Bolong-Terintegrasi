@@ -60,21 +60,32 @@ https://www.arduino.cc/en/software
 <br><br>
 
 ## Get Started
-1. Download this Repository.
+1. Make sure you have the necessary electronic components.
    
-2. Make sure you have the necessary electronic components.
+2. Make sure your components are designed according to the diagram.
    
-3. Make sure your components have been designed according to the diagram.
+3. Make sure the components are well connected ``` (Adjust Board and Port settings) ```.
    
-4. Make sure the components are well connected ``` (Adjust Board and Port settings) ```.
-   
-5. It is recommended to ``` create a IoT Platform account ``` along with this service.
+4. It is recommended to ``` create an IoT Platform account ``` at the same time as the service.
     
-6. Make sure to change the arduino program code in the ``` Router ``` section according to the device you are using.
+5. Be sure to change the arduino program code in the ``` Router ``` section according to the device you are using.
     
-7. If you do not apply points 2 and 3 for the purposes of project development, it is fine, but please note that some things need to be changed in order to function properly.
-    
-8. Done, good luck.
+6. If you don't apply points 2 and 3 for the purposes of project development that's fine, but please note that some things need to be changed for it to work properly.
+
+7. Download and extract this repository.
+   
+8. Rename the directory ``` System-Monitoring-Temperature-and-Humidity-On-An Ornamental-Plant-Dowels-Integrated ``` to ``` Web-Monitoring ```.
+  
+9. Move the ``` Monitoring-Web ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.
+  
+10. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.
+   
+11. To access the website, open your browser by writing:
+    ```bash
+    localhost//Monitoring-Web/Website/iot-monstera/index.php
+    ```
+  
+12. Please enjoy [Done].
 
 <br><br>
 
