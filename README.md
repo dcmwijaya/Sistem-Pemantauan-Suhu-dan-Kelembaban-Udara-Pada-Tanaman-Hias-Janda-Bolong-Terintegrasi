@@ -70,7 +70,7 @@ https://www.arduino.cc/en/software
     
 5. Be sure to change the arduino program code in the ``` Router ``` section according to the device you are using.
     
-6. If you don't apply points 2 and 3 for the purposes of project development that's fine, but please note that some things need to be changed for it to work properly.
+6. If you don't apply points 1 and 2 for the purposes of project development that's fine, but please note that some things need to be changed for it to work properly.
 
 7. Download and extract this repository.
    
