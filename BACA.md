@@ -72,20 +72,24 @@ https://www.arduino.cc/en/software
     
 6. Jika anda tidak menerapkan poin 1 dan 2 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
 
-7. Unduh dan ekstrak repositori ini.
+7. Pastikan perangkat terhubung ke internet.
+
+8. Pastikan semua Things telah dibuat.
+
+9. Unduh dan ekstrak repositori ini.
    
-8. Ubah nama direktori ``` Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi ``` menjadi ``` Monitoring-Web ```.
+10. Ubah nama direktori ``` Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi ``` menjadi ``` Monitoring-Web ```.
   
-9. Pindahkan direktori ``` Monitoring-Web ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.
+11. Pindahkan direktori ``` Monitoring-Web ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.
   
-10. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
+12. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
    
-11. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan:
+13. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan:
     ```bash
     localhost//Monitoring-Web/Website/iot-monstera/index.php
     ```
   
-12. Selamat menikmati [Selesai].
+14. Selamat menikmati [Selesai].
 
 <br><br>
 
