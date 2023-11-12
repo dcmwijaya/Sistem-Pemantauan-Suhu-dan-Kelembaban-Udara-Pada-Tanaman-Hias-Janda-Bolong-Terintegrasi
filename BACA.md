@@ -115,8 +115,6 @@ https://www.arduino.cc/en/software
 </table>
 
 <br>
-
-<strong>Catatan:</strong> Proyek ini membutuhkan internet untuk menjalankan aplikasi.<br><br>
 <strong>Informasi lebih lanjut:</strong> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Klik Disini</u></a>
 
 <br><br>
