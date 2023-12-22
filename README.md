@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi)
-![Project-IOT](https://img.shields.io/badge/-ProjectIOT-light.svg?style=flat&logo=arduino&logoColor=white&color=1db86a)
+![Project-IOT](https://img.shields.io/badge/Project-Bot-%2DWeb%20of%20Things-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?&logo=bootstrap&logoColor=white)
 ![Web-Native](https://img.shields.io/badge/-WebsiteNative-grey.svg?&logo=PHP&logoColor=white)
 ![Bot-Telegram](https://img.shields.io/badge/-BotTelegram-blue.svg?style=flat&logo=telegram&logoColor=white)
@@ -78,7 +78,7 @@ https://www.arduino.cc/en/software
 
 9. Download and extract this repository.
    
-10. Rename the directory ``` System-Monitoring-Temperature-and-Humidity-On-An Ornamental-Plant-Dowels-Integrated ``` to ``` Web-Monitoring ```.
+10. Rename the directory ``` Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi ``` to ``` Monitoring-Web ```.
   
 11. Move the ``` Monitoring-Web ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.
   
@@ -86,7 +86,7 @@ https://www.arduino.cc/en/software
    
 13. To ``` access the website ```, open your ``` browser ``` by writing:
     ```bash
-    localhost//Monitoring-Web/Website/iot-monstera/index.php
+    localhost//Monitoring-Web/Src/Website-Project/iot-monstera/index.php
     ```
   
 14. Please enjoy [Done].
