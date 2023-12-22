@@ -78,15 +78,13 @@ https://www.arduino.cc/en/software
 
 9. Download and extract this repository.
    
-10. Rename the directory ``` Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi ``` to ``` Monitoring-Web ```.
+10. Move the ``` Website-Project ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.
   
-11. Move the ``` Monitoring-Web ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.
-  
-12. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.
+11. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.
    
-13. To ``` access the website ```, open your ``` browser ``` by writing:
+12. To ``` access the website ```, open your ``` browser ``` by writing:
     ```bash
-    localhost//Monitoring-Web/Src/Website-Project/iot-monstera/index.php
+    localhost/Website-Project/iot-monstera/index.php
     ```
   
 14. Please enjoy [Done].
