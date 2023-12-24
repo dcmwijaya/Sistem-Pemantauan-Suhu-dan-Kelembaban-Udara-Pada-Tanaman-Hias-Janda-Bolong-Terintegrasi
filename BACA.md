@@ -13,12 +13,12 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Fitur / Kerangka Kerja / Alat
 | Media | Deskripsi |
 | --- | --- |
-| Platform | ThingSpeak |
-| Protokol IoT | HTTP |
 | Papan Pengembangan | NodeMCU |
 | Editor Kode | Arduino IDE & Visual Studio Code |
+| Platform | ThingSpeak |
+| Protokol IoT | HTTP |
 | Telegram | API Bot Telegram |
-| Desain Tata Letak | Bootstrap |
+| Kerangka Kerja | Bootstrap |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
 | Sensor | DHT22 (Air Temperature & Humidity) |
 | Komponen Lainnya | Kabel Jumper, Breadboard, & Casing  |
