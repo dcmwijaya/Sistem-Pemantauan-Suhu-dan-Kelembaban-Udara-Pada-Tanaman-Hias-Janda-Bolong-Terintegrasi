@@ -13,12 +13,12 @@ This project is closely related to agricultural technology, where this tool is u
 ## Features / Framework / Tools
 | Media | Description |
 | --- | --- |
-| Platform | ThingSpeak |
-| IoT Protocol | HTTP |
 | Board Development | NodeMCU |
 | Code Editor | Arduino IDE & Visual Studio Code |
+| IoT Platform | ThingSpeak |
+| IoT Protocol | HTTP |
 | Telegram | Telegram Bot API |
-| Layout Design | Bootstrap |
+| Framework | Bootstrap |
 | Arduino Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
 | Sensor | DHT22 (Air Temperature & Humidity) |
 | Other Components | Jumper cable, Breadboard, & Casing  |
