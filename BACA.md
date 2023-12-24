@@ -15,7 +15,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | --- | --- |
 | Papan Pengembangan | NodeMCU |
 | Editor Kode | Arduino IDE & Visual Studio Code |
-| Platform | ThingSpeak |
+| Platform IoT | ThingSpeak |
 | Protokol IoT | HTTP |
 | Telegram | API Bot Telegram |
 | Kerangka Kerja | Bootstrap |
