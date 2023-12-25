@@ -43,8 +43,6 @@ This project is closely related to agricultural technology, where this tool is u
    
 <br><br>
 
-<br><br>
-
 ## Settings
 1. Open the ``` Arduino IDE ``` first, then enter the ``` Boards Manager Url ``` by copying the following link:
    
