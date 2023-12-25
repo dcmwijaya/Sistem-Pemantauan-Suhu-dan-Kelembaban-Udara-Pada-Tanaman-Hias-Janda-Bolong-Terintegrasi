@@ -13,10 +13,12 @@ This project is closely related to agricultural technology, where this tool is u
 ## Features / Framework / Tools
 | Media | Description |
 | --- | --- |
-| Board Development | NodeMCU |
+| Board Development | NodeMCU V3 ESP8266 Lolin |
 | Code Editor | Arduino IDE & Visual Studio Code |
+| Driver | USB-Serial CH340 |
 | IoT Platform | ThingSpeak |
 | IoT Protocol | HTTP |
+| IoT Architecture | 4 Layer |
 | Telegram | Telegram Bot API |
 | Framework | Bootstrap |
 | Arduino Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
@@ -25,10 +27,21 @@ This project is closely related to agricultural technology, where this tool is u
 
 <br><br>
 
-## Download & Install Arduino IDE
-```bash
-https://www.arduino.cc/en/software
-```
+## Download & Install
+1. Arduino IDE
+
+   ```
+   https://www.arduino.cc/en/software
+   ```
+<br>
+
+2. USB-Serial CH340
+
+   ```
+   https://bit.ly/CH340_Driver
+   ```
+   
+<br><br>
 
 <br><br>
 
