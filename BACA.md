@@ -78,6 +78,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
+## Pengaturan ThingSpeak
+Dalam proses penulisan......
+
+<br><br>
+
 ## Pengaturan Web Lokal Server
 1. Pindahkan direktori ``` Website-Project ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
   
@@ -89,6 +94,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
     localhost/Website-Project/iot-monstera/index.php
     ```
     
+<br><br>
+
+## Pengaturan Bot Telegram
+Dalam proses penulisan......
+
 <br><br>
 
 ## Memulai
