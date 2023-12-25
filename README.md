@@ -105,22 +105,39 @@ In the writing process......
 <br><br>
 
 ## Telegram Bot Setup
-In the writing process......
+1. Open <a href="https://t.me/botfather">@BotFather</a>.<br><br>
+
+2. Type ``` /newbot ```.<br><br>
+
+3. Type the desired bot name, for example: ``` monistera_bot ```.<br><br>
+
+4. Type the desired bot username, for example: ``` monistera_bot ```.<br><br>
+
+5. Also do it for bot image settings, bot descriptions, and so on according to your needs.<br><br>
+
+6. Copy ``` your telegram bot API token ``` -> then paste it into the ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ``` section. For example :
+
+   ```
+   #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
+   ```
+   <br>
+   
+7. If it fails to connect to the Telegram Bot, then the problem may be in the firmware. Please check again.
 
 <br><br>
 
 ## Get Started
-1. Download and extract this repository.
+1. Download and extract this repository.<br><br>
     
-2. Make sure you have the necessary electronic components.
+2. Make sure you have the necessary electronic components.<br><br>
    
-3. Make sure your components are designed according to the diagram.
+3. Make sure your components are designed according to the diagram.<br><br>
       
-4. Create an account for the IoT Platform and its services.
+4. Create an account for the IoT Platform and its services.<br><br>
     
-5. If you don't apply points 2 and 3 for project development purposes, that's fine, but be aware that some things need to be changed according to your needs for the system to work properly.
+5. If you don't apply points 2 and 3 for project development purposes, that's fine, but be aware that some things need to be changed according to your needs for the system to work properly.<br><br>
 
-6. Make sure all things have been created. 
+6. Make sure all things have been created.<br><br> 
  
 7. Please enjoy [Done].
 
