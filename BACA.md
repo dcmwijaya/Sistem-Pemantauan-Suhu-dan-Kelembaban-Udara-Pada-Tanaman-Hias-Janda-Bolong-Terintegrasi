@@ -43,27 +43,38 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 <br><br>
 
-## Pengaturan
-1. Buka ``` Arduino IDE ``` terlebih dahulu, lalu masuk ke ``` Boards Manager Url ``` dengan cara menyalin tautan berikut:
-   
-   ```bash
-   http://arduino.esp8266.com/stable/package_esp8266com_index.json
-   ```
-<br>
-
-2. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Boards Manager ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
-   <br><br><br>
-3. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.
-   <br><br><br>
-4. ``` Instal pustaka ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Manage Libraries ``` -> ``` Install Library ``` sesuai dengan kebutuhan proyek.
+## Perancangan Perangkat Keras
+<img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
 <br><br>
 
-## Perancangan Perangkat Keras
-<img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
+## Pengaturan Arduino IDE
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` monitoring_suhu.ino ```.<br><br>
+   
+2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE<br><br>
+   • Cara: klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+   
+   ```
+   http://arduino.esp8266.com/stable/package_esp8266com_index.json
+   ```
+   
+3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp8266 ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.<br><br>
+   
+4. ``` Ubah Kecepatan Papan ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```.<br><br>
+   
+5. ``` Instal Pustaka ``` di Arduino IDE<br><br>
+   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+
+6. ``` Pengaturan Port ``` di Arduino IDE<br><br>
+   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+
+7. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang Anda gunakan saat ini.<br><br>
+
+8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
+
+9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.
 
 <br><br>
 
