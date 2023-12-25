@@ -78,35 +78,56 @@ This project is closely related to agricultural technology, where this tool is u
 
 <br><br>
 
-## Get Started
-1. Make sure you have the necessary electronic components.
-   
-2. Make sure your components are designed according to the diagram.
-   
-3. Make sure the components are well connected ``` (Adjust Board and Port settings) ```.
-   
-4. It is recommended to ``` create an IoT Platform account ``` at the same time as the service.
-    
-5. Be sure to change the arduino program code in the ``` Router ``` section according to the device you are using.
-    
-6. If you don't apply points 1 and 2 for the purposes of project development that's fine, but please note that some things need to be changed for it to work properly.
+## ThingSpeak Setup
+In the writing process......
 
-7. Ensure that the device is connected to the internet.
-  
-8. Make sure all things have been created.
+<br><br>
 
-9. Download and extract this repository.
-   
-10. Move the ``` Website-Project ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.
+## Local Web Server Setup
+1. Move the ``` Website-Project ``` directory into the ``` htdocs ``` directory, the details of which you can see as follows: ``` C:\xampp\htdocs ```.<br><br>
   
-11. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.
+2. Open ``` index.php ``` inside the ``` Website-Project\iot-monstera\index.php ``` directory via ``` Visual Studio Code ```.<br><br>
    
-12. To ``` access the website ```, open your ``` browser ``` by writing:
+3. The ``` <iframe> ``` tag please match the ``` widget link ``` in ``` ThingSpeak ```. For example like this :
+
+   ```
+   <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
+   ```
+   
+4. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.<br><br>
+   
+5. To ``` access the website ```, open your ``` browser ``` by writing :
+   
     ```bash
     localhost/Website-Project/iot-monstera/index.php
     ```
-  
-14. Please enjoy [Done].
+    
+<br><br>
+
+## Telegram Bot Setup
+In the writing process......
+
+<br><br>
+
+## Get Started
+1. Download and extract this repository.
+    
+2. Make sure you have the necessary electronic components.
+   
+3. Make sure your components are designed according to the diagram.
+      
+4. Create an account for the IoT Platform and its services.
+    
+5. If you don't apply points 2 and 3 for project development purposes, that's fine, but be aware that some things need to be changed according to your needs for the system to work properly.
+
+6. Make sure all things have been created. 
+ 
+7. Please enjoy [Done].
+
+<br><br>
+
+## Demonstration of Application
+Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 
 <br><br>
 
