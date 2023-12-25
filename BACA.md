@@ -126,6 +126,11 @@ Dalam proses penulisan......
 
 <br><br>
 
+## Demonstrasi Aplikasi
+Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
+
+<br><br>
+
 ## Sorotan
 <table>
 <tr>
@@ -149,11 +154,6 @@ Dalam proses penulisan......
 
 <br>
 <strong>Informasi lebih lanjut:</strong> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Klik Disini</u></a>
-
-<br><br>
-
-## Demonstrasi Aplikasi
-Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 
 <br><br>
 
