@@ -5,7 +5,7 @@
 
 
 # Monitoring-Suhu-Kelembapan-Udara-Tanaman-Hias-Janda-Bolong
-<strong>Team Project - Informatics UPN Veteran Jatim</strong><br>
+<strong>Team Project - Informatics UPN Veteran Jatim</strong><br><br>
 This project is closely related to agricultural technology, where this tool is used to monitor changes in air temperature and humidity in the environment around widow bolong plants in real time remotely anytime and anywhere. This tool is equipped with a Bot of Things (BoT) based interface that aims to facilitate users in caring for these ornamental plants. Janda bolong is a plant from the Araceae or taro species that can survive optimally at temperatures of 23-30 ° C and air humidity less than 40%.
 
 <br><br>
@@ -43,27 +43,38 @@ This project is closely related to agricultural technology, where this tool is u
    
 <br><br>
 
-## Settings
-1. Open the ``` Arduino IDE ``` first, then enter the ``` Boards Manager Url ``` by copying the following link:
-   
-   ```bash
-   http://arduino.esp8266.com/stable/package_esp8266com_index.json
-   ```
-<br>
-
-2. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Boards Manager ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
-   <br><br><br>
-3. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.
-   <br><br><br>
-4. ``` Install Library ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Manage Libraries ``` -> ``` Install Library ``` according to project needs.
+## Hardware Design
+<img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
 <br><br>
 
-## Hardware Design
-<img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
+## Arduino IDE Setup
+1. Open the ``` Arduino IDE ``` first, then open the project by clicking: ``` File ``` -> ``` Open ``` -> ``` monitoring_suhu.ino ```.<br><br>
+   
+2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
+   • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+   
+   ```
+   http://arduino.esp8266.com/stable/package_esp8266com_index.json
+   ```
+   
+3. ``` Board Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp8266 ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.<br><br>
+   
+4. ``` Change the Board Speed ``` in Arduino IDE<br><br>
+   • Method: click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```.<br><br>
+   
+5. ``` Install Library ``` in Arduino IDE<br><br>
+   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+
+6. ``` Port Setup ``` in Arduino IDE<br><br>
+   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+
+7. Change the ``` WiFi Name ```, ``` WiFi Password ```, and so on according to what you are currently using.<br><br>
+
+8. Before uploading the program please click: ``` Verify ```.<br><br>
+
+9. If there is no error in the program code, then please click: ``` Upload ```.
 
 <br><br>
 
