@@ -86,9 +86,17 @@ Dalam proses penulisan......
 ## Pengaturan Web Lokal Server
 1. Pindahkan direktori ``` Website-Project ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br><br>
   
-2. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br><br>
+2. Buka ``` index.php ``` yang ada di dalam direktori ``` Website-Project\iot-monstera\index.php ``` melalui ``` Visual Studio Code ```.<br><br>
    
-3. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan :
+3. ``` src ``` yang ada pada bagian tag ``` <iframe> ``` mohon sesuaikan dengan tautan widget yang ada di ThingSpeak. Contohnya seperti berikut ini :
+
+   ```
+   <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
+   ```
+   
+4. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br><br>
+   
+5. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan :
    
     ```bash
     localhost/Website-Project/iot-monstera/index.php
