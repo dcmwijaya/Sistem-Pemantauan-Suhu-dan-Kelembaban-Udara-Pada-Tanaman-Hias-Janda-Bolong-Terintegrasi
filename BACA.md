@@ -78,35 +78,33 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Memulai
-1. Pastikan anda memiliki komponen elektronik yang diperlukan.
-   
-2. Pastikan komponen anda telah dirancang sesuai dengan diagram.
-   
-3. Pastikan komponen terhubung dengan baik ``` (Sesuaikan pengaturan Board dan Port) ```.
-   
-4. Disarankan untuk ``` membuat akun Platform IoT ``` sekaligus dengan layanannya.
-    
-5. Pastikan untuk mengubah kode program arduino di bagian ``` Router ``` sesuai dengan perangkat yang anda gunakan.
-    
-6. Jika anda tidak menerapkan poin 1 dan 2 untuk keperluan pengembangan proyek itu tidak masalah, tetapi harap dicatat bahwa beberapa hal perlu diubah agar dapat berfungsi dengan baik.
-
-7. Pastikan perangkat terhubung ke internet.
-
-8. Pastikan semua Things telah dibuat.
-
-9. Unduh dan ekstrak repositori ini.
-   
-10. Pindahkan direktori ``` Website-Project ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.
+## Pengaturan Web Lokal Server
+1. Pindahkan direktori ``` Website-Project ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.
   
-11. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
+2. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
    
-12. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan:
+3. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan :
+   
     ```bash
     localhost/Website-Project/iot-monstera/index.php
     ```
+    
+<br><br>
+
+## Memulai
+1. Unduh dan ekstrak repositori ini.
+
+2. Pastikan anda memiliki komponen elektronik yang diperlukan.
+   
+3. Pastikan komponen anda telah dirancang sesuai dengan diagram.
+   
+4. Membuat akun untuk Platform IoT beserta layanannya.
+    
+5. Jika Anda tidak menerapkan poin 2 dan 3 untuk tujuan pengembangan proyek, tidak masalah, tetapi perlu diketahui bahwa beberapa hal perlu diubah sesuai dengan kebutuhan Anda agar sistem dapat bekerja dengan baik.
+    
+6. Pastikan semua Things telah dibuat.
   
-13. Selamat menikmati [Selesai].
+7. Selamat menikmati [Selesai].
 
 <br><br>
 
