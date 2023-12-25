@@ -5,7 +5,7 @@
 
 
 # Monitoring-Suhu-Kelembapan-Udara-Tanaman-Hias-Janda-Bolong
-<strong>Proyek Tim - Informatika UPN Veteran Jatim</strong><br>
+<strong>Proyek Tim - Informatika UPN Veteran Jatim</strong><br><br>
 Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini digunakan untuk memonitoring perubahan suhu udara dan kelembaban udara di lingkungan sekitar tanaman janda bolong secara real time dari jarak jauh kapanpun dan dimanapun. Alat ini dilengkapi dengan antarmuka berbasis Bot of Things (BoT) yang bertujuan untuk memudahkan pengguna dalam merawat tanaman hias tersebut. Janda bolong merupakan tanaman dari suku Araceae atau talas-talasan yang dapat bertahan hidup secara optimal pada suhu 23-30°C dan kelembaban udara kurang dari 40%.
 
 <br><br>
