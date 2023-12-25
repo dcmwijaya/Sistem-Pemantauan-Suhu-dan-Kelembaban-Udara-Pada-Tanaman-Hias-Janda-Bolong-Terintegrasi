@@ -127,17 +127,17 @@ Dalam proses penulisan......
 <br><br>
 
 ## Memulai
-1. Unduh dan ekstrak repositori ini.
+1. Unduh dan ekstrak repositori ini.<br><br>
 
-2. Pastikan anda memiliki komponen elektronik yang diperlukan.
+2. Pastikan anda memiliki komponen elektronik yang diperlukan.<br><br>
    
-3. Pastikan komponen anda telah dirancang sesuai dengan diagram.
+3. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
    
-4. Membuat akun untuk Platform IoT beserta layanannya.
+4. Membuat akun untuk Platform IoT beserta layanannya.<br><br>
     
-5. Jika Anda tidak menerapkan poin 2 dan 3 untuk tujuan pengembangan proyek, tidak masalah, tetapi perlu diketahui bahwa beberapa hal perlu diubah sesuai dengan kebutuhan Anda agar sistem dapat bekerja dengan baik.
+5. Jika Anda tidak menerapkan poin 2 dan 3 untuk tujuan pengembangan proyek, tidak masalah, tetapi perlu diketahui bahwa beberapa hal perlu diubah sesuai dengan kebutuhan Anda agar sistem dapat bekerja dengan baik.<br><br>
     
-6. Pastikan semua Things telah dibuat.
+6. Pastikan semua Things telah dibuat.<br><br>
   
 7. Selamat menikmati [Selesai].
 
