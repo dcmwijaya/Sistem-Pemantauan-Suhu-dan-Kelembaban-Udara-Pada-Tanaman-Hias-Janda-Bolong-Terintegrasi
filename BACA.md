@@ -105,21 +105,22 @@ Dalam proses penulisan......
 <br><br>
 
 ## Pengaturan Bot Telegram
-1. Buka <a href="https://t.me/botfather">@BotFather</a>.
+1. Buka <a href="https://t.me/botfather">@BotFather</a>.<br><br>
 
-2. Ketik ``` /newbot ```.
+2. Ketik ``` /newbot ```.<br><br>
 
-3. Ketik nama bot yang diinginkan, contoh: ``` monistera_bot ```.
+3. Ketik nama bot yang diinginkan, contoh: ``` monistera_bot ```.<br><br>
 
-4. Ketik nama pengguna bot yang diinginkan, contoh: ``` monistera_bot ```.
+4. Ketik nama pengguna bot yang diinginkan, contoh: ``` monistera_bot ```.<br><br>
 
-5. Lakukan juga untuk pengaturan gambar bot, deskripsi bot, dan lain sebagainya menyesuaikan dengan kebutuhan anda.
+5. Lakukan juga untuk pengaturan gambar bot, deskripsi bot, dan lain sebagainya menyesuaikan dengan kebutuhan anda.<br><br>
 
 6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. Contohnya yaitu :
 
    ```
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
+   <br>
    
 7. Jika gagal terkoneksi ke Bot Telegram, maka perkiraan masalahnya ada di bagian firmware. Silakan periksa lagi.
 
