@@ -88,7 +88,7 @@ Dalam proses penulisan......
   
 2. Buka ``` index.php ``` yang ada di dalam direktori ``` Website-Project\iot-monstera\index.php ``` melalui ``` Visual Studio Code ```.<br><br>
    
-3. ``` src ``` yang ada pada bagian tag ``` <iframe> ``` mohon sesuaikan dengan tautan widget yang ada di ThingSpeak. Contohnya seperti berikut ini :
+3. Tag ``` <iframe> ``` mohon sesuaikan dengan ``` tautan widget ``` yang ada di ``` ThingSpeak ```. Contohnya seperti berikut ini :
 
    ```
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
@@ -149,6 +149,11 @@ Dalam proses penulisan......
 
 <br>
 <strong>Informasi lebih lanjut:</strong> <a href="https://ejournal.upnvj.ac.id/informatik/article/view/3436"><u>Klik Disini</u></a>
+
+<br><br>
+
+## Demonstrasi Aplikasi
+Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 
 <br><br>
 
