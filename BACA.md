@@ -13,10 +13,12 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 ## Fitur / Kerangka Kerja / Alat
 | Media | Deskripsi |
 | --- | --- |
-| Papan Pengembangan | NodeMCU |
+| Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
 | Editor Kode | Arduino IDE & Visual Studio Code |
+| Driver | USB-Serial CH340 |
 | Platform IoT | ThingSpeak |
 | Protokol IoT | HTTP |
+| Arsitektur IoT | 4 Lapisan |
 | Telegram | API Bot Telegram |
 | Kerangka Kerja | Bootstrap |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
@@ -25,11 +27,20 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Unduh & Instal Arduino IDE
-```bash
-https://www.arduino.cc/en/software
-```
+## Unduh & Instal
+1. Arduino IDE
 
+   ```
+   https://www.arduino.cc/en/software
+   ```
+<br>
+
+2. USB-Serial CH340
+
+   ```
+   https://bit.ly/CH340_Driver
+   ```
+   
 <br><br>
 
 ## Pengaturan
