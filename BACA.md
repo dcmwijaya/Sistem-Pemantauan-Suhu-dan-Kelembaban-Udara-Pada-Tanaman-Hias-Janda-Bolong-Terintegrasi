@@ -84,7 +84,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
    • Jika anda belum memiliki akun ThingSpeak silakan buat dulu.<br><br>
 
-2. Membuat Channel :<br><br>
+2. Membuat channel :<br><br>
    • Setelah masuk ke dalam akun, klik ``` New Channel ```.
 
    • Isi form sesuai dengan kebutuhan anda.
@@ -93,18 +93,16 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ``` silakan pilih ``` Share channel view with everyone ```.<br><br>
 
-3. Membuat Visualization :<br><br>
+3. Membuat visualization :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
 
    • Klik ``` + Add Visualization ```.
 
    • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
 
-   • Jika ada yang ingin diubah dari isi visualization tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.
+   • Jika ada yang ingin diubah dari isi visualization tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.<br><br>
 
-   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.<br><br>
-
-4. Membuat Widget :<br><br>
+4. Membuat widget :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
 
    • Klik ``` + Add Widgets ```.
@@ -113,8 +111,29 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Pada bagian ``` Configure widget parameters ``` silakan isi sesuai dengan kebutuhan anda -> kemudian pilih ``` Create ```.
 
-   • Jika ada yang ingin diubah dari isi widget tersebut silakan klik ``` Widget Options ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.
-   
+   • Jika ada yang ingin diubah dari isi widget tersebut silakan klik ``` Widget Options ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.<br><br>
+
+5. Konfigurasi firmware :<br><br>
+   • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
+
+   • Salin ``` Channel ID ``` yang ada di menu tersebut.
+
+   • Tempelkan pada kode firmware, contohnya seperti ini :
+
+      ```
+      unsigned long ChannelID = '1504372'; // ID ThingSpeak
+      ```
+
+   • Silakan anda beralih ke bagian ``` API Keys ```.
+
+   • Tempelkan pada kode firmware, contohnya seperti ini :
+
+      ```
+      const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
+      ```
+
+   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.
+
    • Klik ``` Widget IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.
 
 <br><br>
@@ -134,7 +153,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 5. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan :
    
-    ```bash
+    ```
     localhost/Website-Project/iot-monstera/index.php
     ```
     
