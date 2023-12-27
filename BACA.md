@@ -85,11 +85,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    • Jika anda belum memiliki akun ThingSpeak silakan buat dulu.<br><br>
 
 2. Membuat channel :<br><br>
-   • Setelah masuk ke dalam akun, klik ``` New Channel ```.
+   • Setelah masuk ke dalam akun -> klik ``` New Channel ```.
 
    • Isi form sesuai dengan kebutuhan anda.
 
-   • Kemudian klik ``` Save Channel ```.
+   • Klik ``` Save Channel ```.
 
    • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ``` silakan pilih ``` Share channel view with everyone ```.<br><br>
 
