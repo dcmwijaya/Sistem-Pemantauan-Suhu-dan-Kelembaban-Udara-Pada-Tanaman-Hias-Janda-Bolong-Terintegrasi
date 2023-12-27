@@ -91,7 +91,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Klik ``` Save Channel ```.
 
-   • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ``` silakan pilih ``` Share channel view with everyone ```.<br><br>
+   • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ``` silakan pilih -> ``` Share channel view with everyone ```.<br><br>
 
 3. Membuat visualization :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
