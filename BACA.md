@@ -79,7 +79,33 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 <br><br>
 
 ## Pengaturan ThingSpeak
-Dalam proses penulisan......
+1. Memulai ThingSpeak :<br><br>
+   • Silakan <a href="https://thingspeak.com/login">Masuk</a> agar dapat mengakses layanan ThingSpeak.
+   
+   • Jika anda belum memiliki akun ThingSpeak silakan buat dulu.<br><br>
+
+2. Membuat Channel :<br><br>
+   • Setelah masuk ke dalam akun, klik ``` New Channel ```.
+
+   • Isi form sesuai dengan kebutuhan anda.
+
+   • Kemudian klik ``` Save Channel ```.<br><br>
+
+3. Membuat Visualization :<br><br>
+   • Pastikan anda berada di menu ``` Channel ```.
+
+   • Klik ``` Public View ``` agar widget dapat diakses secara luas.
+
+   • Klik ``` + Add Visualization ```.
+
+   • Klik ``` Field 1/2 Chart ``` -> kemudian pilih ``` Save ```.
+
+   • Klik ``` Field 1/2 Chart Option ``` -> lalu atur sesuai kebutuhan anda -> kemudian pilih ``` Save ```.
+
+   • Klik ``` Field 1/2 Chart IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada web lokal server.
+   
+
+   
 
 <br><br>
 
@@ -88,7 +114,7 @@ Dalam proses penulisan......
   
 2. Buka ``` index.php ``` yang ada di dalam direktori ``` Website-Project\iot-monstera\index.php ``` melalui ``` Visual Studio Code ```.<br><br>
    
-3. Tag ``` <iframe> ``` mohon sesuaikan dengan ``` tautan widget ``` yang ada di ``` ThingSpeak ```. Contohnya seperti berikut ini :
+3. Tag ``` <iframe> ``` mohon sesuaikan dengan ``` tautan visualization / widget ``` yang ada di ``` ThingSpeak ```. Contohnya seperti berikut ini :
 
    ```
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
