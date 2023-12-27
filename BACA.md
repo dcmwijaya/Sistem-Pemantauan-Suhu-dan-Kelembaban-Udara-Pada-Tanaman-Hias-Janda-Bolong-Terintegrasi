@@ -128,9 +128,9 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
-   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan chart yang dipilih, lalu tempelkan tautan tersebut ke dalam kode program web.
+   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan chart yang dipilih -> tempelkan tautan tersebut ke dalam kode program web.
 
-   • Klik ``` Widget IFrame ``` untuk menampilkan tautan widget yang dipilih, lalu tempelkan tautan tersebut ke dalam kode program web.
+   • Klik ``` Widget IFrame ``` untuk menampilkan tautan widget yang dipilih -> tempelkan tautan tersebut ke dalam kode program web.
 
 <br><br>
 
