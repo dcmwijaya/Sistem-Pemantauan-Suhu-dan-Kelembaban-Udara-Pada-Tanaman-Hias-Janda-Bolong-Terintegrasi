@@ -116,21 +116,21 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 5. Konfigurasi firmware :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
 
-   • Salin ``` Channel ID ``` yang ada di menu tersebut. Tempelkan pada kode firmware, contohnya seperti ini :
+   • Salin ``` Channel ID ``` lalu tempelkan pada kode firmware. Contohnya seperti ini :
 
       ```
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
-   • Silakan anda beralih ke bagian ``` API Keys ```. Tempelkan pada kode firmware, contohnya seperti ini :
+   • Silakan anda beralih ke bagian ``` API Keys ``` lalu tempelkan pada kode firmware. Berikut ini adalah contohnya :
 
       ```
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
-   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.
+   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan chart yang dipilih, lalu tempelkan tautan tersebut ke dalam kode program web lokal server.
 
-   • Klik ``` Widget IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.
+   • Klik ``` Widget IFrame ``` untuk menampilkan tautan widget yang dipilih, lalu tempelkan tautan tersebut ke dalam kode program web lokal server.
 
 <br><br>
 
