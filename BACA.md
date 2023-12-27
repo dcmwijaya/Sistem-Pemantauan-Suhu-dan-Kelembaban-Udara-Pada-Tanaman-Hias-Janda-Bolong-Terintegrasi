@@ -100,7 +100,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
 
-   • Jika ada yang ingin diubah dari isi widget tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah pilih ``` Save ``` untuk menyimpan.
+   • Jika ada yang ingin diubah dari isi visualization tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah pilih ``` Save ``` untuk menyimpan.
 
    • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.<br><br>
 
