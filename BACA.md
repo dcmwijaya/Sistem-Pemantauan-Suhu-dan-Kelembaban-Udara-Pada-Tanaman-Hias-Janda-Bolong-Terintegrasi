@@ -100,7 +100,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
 
-   • Jika ada yang ingin diubah dari isi visualization tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.<br><br>
+   • Jika ada yang ingin diubah dari isi visualisasi tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.<br><br>
 
 4. Membuat widget :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
