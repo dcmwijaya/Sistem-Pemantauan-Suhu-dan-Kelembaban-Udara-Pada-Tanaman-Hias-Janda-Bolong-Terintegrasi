@@ -89,12 +89,14 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Isi form sesuai dengan kebutuhan anda.
 
-   • Kemudian klik ``` Save Channel ```.<br><br>
+   • Kemudian klik ``` Save Channel ```.
+
+   • Klik ``` Sharing ``` -> Pada bagian ``` Channel Sharing Settings ``` silakan pilih ``` Share channel view with everyone ```.<br><br>
 
 3. Membuat Visualization :<br><br>
    • Pastikan anda berada di menu ``` Channel ```.
 
-   • Klik ``` Public View ``` agar widget dapat diakses secara luas.
+   • Klik ``` Public View ``` agar visualisasi dapat diakses secara luas.
 
    • Klik ``` + Add Visualization ```.
 
