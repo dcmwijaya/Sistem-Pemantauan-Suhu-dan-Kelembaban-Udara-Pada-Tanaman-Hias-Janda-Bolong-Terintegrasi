@@ -17,7 +17,7 @@ WiFiClient client; // mengecek jika client sudah terhubung
 #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0" //token bot telegram
 
 unsigned long ChannelID = 'YOUR_CHANNEL_ID_THINGSPEAK'; // ID ThingSpeak
-const char * APIKey = "YOUR_APIKEY_THINGSPEAK"; // Apikey ThingSpeak
+const char * APIKey = "YOUR_WRITEAPIKEY_THINGSPEAK"; // Apikey ThingSpeak
 
 void setup() 
 {
