@@ -116,17 +116,13 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 5. Konfigurasi firmware :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
 
-   • Salin ``` Channel ID ``` yang ada di menu tersebut.
-
-   • Tempelkan pada kode firmware, contohnya seperti ini :
+   • Salin ``` Channel ID ``` yang ada di menu tersebut. Tempelkan pada kode firmware, contohnya seperti ini :
 
       ```
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
-   • Silakan anda beralih ke bagian ``` API Keys ```.
-
-   • Tempelkan pada kode firmware, contohnya seperti ini :
+   • Silakan anda beralih ke bagian ``` API Keys ```. Tempelkan pada kode firmware, contohnya seperti ini :
 
       ```
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
