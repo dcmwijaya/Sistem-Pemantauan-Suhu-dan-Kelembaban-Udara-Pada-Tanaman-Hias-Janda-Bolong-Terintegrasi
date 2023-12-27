@@ -79,7 +79,58 @@ This project is closely related to agricultural technology, where this tool is u
 <br><br>
 
 ## ThingSpeak Setup
-In the writing process......
+1. Getting started with ThingSpeak :<br><br>
+   • Please <a href="https://thingspeak.com/login">Log in</a> to access the ThingSpeak service.
+   
+   • If you don't have a ThingSpeak account yet, please create one.<br><br>
+
+2. Create a channel :<br><br>
+   • After logging into the account -> click ``` New Channel ```.
+
+   • Fill in the form according to your needs.
+
+   • Click ``` Save Channel ```.
+
+   • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section please select -> ``` Share channel view with everyone ```.<br><br>
+
+3. Create visualizations :<br><br>
+   • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+
+   • Click ``` + Add Visualization ```.
+
+   • Click ``` Field Chart ``` -> then select ``` Save ```.
+
+   • If you want to change the visualization content, please click ``` Field Chart Option ``` -> then select ``` Save ``` to save.<br><br>
+
+4. Create widgets :<br><br>
+   • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+
+   • Click ``` + Add Widgets ```.
+
+   • Click ``` Numeric Display ``` -> then select ``` Next ```.
+
+   • In the ``` Configure widget parameters ``` section, please fill in according to your needs -> then select ``` Create ```.
+
+   • If you want to change the widget content, please click ``` Widget Option ``` -> then select ``` Save ``` to save.<br><br>
+
+5. Firmware configuration :<br><br>
+   • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+
+   • Copy the ``` Channel ID ``` -> paste it into the firmware code. For example like this :
+
+      ```
+      unsigned long ChannelID = '1504372'; // ID ThingSpeak
+      ```
+
+   • Please go to the ``` API Keys ``` section -> paste it into the firmware code. Here is an example :
+
+      ```
+      const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
+      ```
+
+   • Click ``` Field Chart IFrame ``` to display the selected chart link -> paste the link into the web program code.
+
+   • Click ``` Widget IFrame ``` to display the selected widget link -> paste the link into the web program code.
 
 <br><br>
 
