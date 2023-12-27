@@ -88,7 +88,7 @@ In the writing process......
   
 2. Open ``` index.php ``` inside the ``` Website-Project\iot-monstera\index.php ``` directory via ``` Visual Studio Code ```.<br><br>
    
-3. The ``` <iframe> ``` tag please match the ``` widget link ``` in ``` ThingSpeak ```. For example like this :
+3. The ``` <iframe> ``` tag please match the ``` visualization / widget link ``` in ``` ThingSpeak ```. For example like this :
 
    ```
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
