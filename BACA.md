@@ -100,7 +100,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
 
-   • Jika ada yang ingin diubah dari isi visualisasi tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.<br><br>
+   • Jika ingin mengubah isi visualisasi, silakan klik ``` Field Chart Option ``` -> kemudian pilih ``` Save ``` untuk menyimpan.<br><br>
 
 4. Membuat widget :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
@@ -111,7 +111,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
    • Pada bagian ``` Configure widget parameters ``` silakan isi sesuai dengan kebutuhan anda -> kemudian pilih ``` Create ```.
 
-   • Jika ada yang ingin diubah dari isi widget tersebut silakan klik ``` Widget Options ``` -> kemudian jika sudah, pilih ``` Save ``` untuk menyimpan.<br><br>
+   • Jika ingin mengubah isi widget, silakan klik ``` Widget Options ``` -> kemudian pilih ``` Save ``` untuk menyimpan.<br><br>
 
 5. Konfigurasi firmware :<br><br>
    • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
