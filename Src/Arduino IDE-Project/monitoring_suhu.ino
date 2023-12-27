@@ -10,14 +10,14 @@ CTBot myBot; // inisialisasi library
 DHT dht(DHTPIN, DHTTYPE); // mengatur pin DHT dan type DHT
 float t,h; // tipe data float: temperature(suhu) dan humidity (kelembapan)
 
-const char *ssid = ""; // nama wifi router
-const char *password = ""; // password wifi router
+const char *ssid = "YOUR_WIFI_NAME"; // nama wifi router
+const char *password = "YOUR_WIFI_PASSWORD"; // password wifi router
 WiFiClient client; // mengecek jika client sudah terhubung
 
-#define BOTtoken "" //token bot telegram
+#define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0" //token bot telegram
 
-unsigned long ChannelID = ; // ID ThingSpeak
-const char * APIKey = ""; // Apikey ThingSpeak
+unsigned long ChannelID = 'YOUR_CHANNEL_ID_THINGSPEAK'; // ID ThingSpeak
+const char * APIKey = "YOUR_APIKEY_THINGSPEAK"; // Apikey ThingSpeak
 
 void setup() 
 {
