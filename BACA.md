@@ -94,20 +94,28 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    • Klik ``` Sharing ``` -> Pada bagian ``` Channel Sharing Settings ``` silakan pilih ``` Share channel view with everyone ```.<br><br>
 
 3. Membuat Visualization :<br><br>
-   • Pastikan anda berada di menu ``` Channel ```.
-
-   • Klik ``` Public View ``` agar visualisasi dapat diakses secara luas.
+   • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
 
    • Klik ``` + Add Visualization ```.
 
-   • Klik ``` Field 1/2 Chart ``` -> kemudian pilih ``` Save ```.
+   • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
 
-   • Klik ``` Field 1/2 Chart Option ``` -> lalu atur sesuai kebutuhan anda -> kemudian pilih ``` Save ```.
+   • Jika ada yang ingin diubah dari isi widget tersebut silakan klik ``` Field Chart Option ``` -> kemudian jika sudah pilih ``` Save ``` untuk menyimpan.
 
-   • Klik ``` Field 1/2 Chart IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada web lokal server.
+   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.<br><br>
+
+4. Membuat Widget :<br><br>
+   • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
+
+   • Klik ``` + Add Widgets ```.
+
+   • Klik ``` Numeric Display ``` -> kemudian pilih ``` Next ```.
+
+   • Pada bagian ``` Configure widget parameters ``` silakan isi sesuai dengan kebutuhan anda -> kemudian pilih ``` Create ```.
+
+   • Jika ada yang ingin diubah dari isi widget tersebut silakan klik ``` Widget Options ``` -> kemudian jika sudah pilih ``` Save ``` untuk menyimpan.
    
-
-   
+   • Klik ``` Widget IFrame ``` untuk menampilkan tautan dari chart yang dipilih, lalu menempelkan tautan tersebut pada kode program web lokal server.
 
 <br><br>
 
