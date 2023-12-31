@@ -202,12 +202,10 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 ## Sorotan
 <table>
 <tr>
-<th width="420">Tampilan Produk</th>
-<th width="420">Tampilan Website Monitoring</th>
+<th width="840">Tampilan Produk</th>
 </tr>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/54527592/133962095-8baa3737-3bf0-4d6b-bc65-c0cff1c37021.jpg" alt="product-view"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/133962162-8856e20d-9e84-43c4-ac4a-0316d2c65004.jpg" alt="monitoring-web-view"></td>
 </tr>
 </table>
 <table>
@@ -217,6 +215,14 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 <tr>
 <td width="420"><img src="https://user-images.githubusercontent.com/54527592/133962195-70e38df7-8e56-422b-ba30-3b42a642c62b.JPG" alt="bot-menu1"></td>
 <td width="420"><img src="https://user-images.githubusercontent.com/54527592/133962202-2399d06a-4f97-4335-86b4-4c043d7d1d17.JPG" alt="bot-menu2"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Tampilan Website Monitoring</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/133962162-8856e20d-9e84-43c4-ac4a-0316d2c65004.jpg" alt="monitoring-web-view"></td>
 </tr>
 </table>
 
