@@ -22,8 +22,8 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Telegram | API Bot Telegram |
 | Kerangka Kerja | Bootstrap |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
-| Sensor | DHT22 (Air Temperature & Humidity) |
-| Komponen Lainnya | Kabel micro usb, Kabel jumper, Breadboard, Casing, DLL |
+| Sensor | DHT22: Air Temperature & Humidity (x1) |
+| Komponen Lainnya | Kabel micro usb (x1), Kabel jumper, Casing (x1), DLL |
 
 <br><br>
 
