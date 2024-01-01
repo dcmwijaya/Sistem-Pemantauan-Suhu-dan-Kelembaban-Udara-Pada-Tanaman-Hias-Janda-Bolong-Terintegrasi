@@ -23,7 +23,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Kerangka Kerja | Bootstrap |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
 | Sensor | DHT22 (Air Temperature & Humidity) |
-| Komponen Lainnya | Kabel Jumper, Breadboard, & Casing  |
+| Komponen Lainnya | Kabel micro usb, Kabel jumper, Breadboard, Casing, DLL |
 
 <br><br>
 
