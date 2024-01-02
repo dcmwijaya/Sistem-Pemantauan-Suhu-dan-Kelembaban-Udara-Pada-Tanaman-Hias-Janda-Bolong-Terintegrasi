@@ -21,6 +21,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Arsitektur IoT | 4 Lapisan |
 | Telegram | API Bot Telegram |
 | Kerangka Kerja | Bootstrap |
+| Bahasa Pemrograman | C/C++, JavaScript, dan PHP |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
 | Komponen Lainnya | Kabel micro usb (x1), Kabel jumper, Casing (x1), DLL |
