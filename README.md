@@ -10,7 +10,7 @@ This project is closely related to agricultural technology, where this tool is u
 
 <br><br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Media | Description |
 | --- | --- |
 | Board Development | NodeMCU V3 ESP8266 Lolin |
@@ -44,7 +44,7 @@ This project is closely related to agricultural technology, where this tool is u
    
 <br><br>
 
-## Hardware Design
+## Project Designs
 <img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
 <br><br>
@@ -185,13 +185,9 @@ This project is closely related to agricultural technology, where this tool is u
    
 3. Make sure your components are designed according to the diagram.<br><br>
       
-4. Create an account for the IoT Platform and its services.<br><br>
-    
-5. If you don't apply points 2 and 3 for project development purposes, that's fine, but be aware that some things need to be changed according to your needs for the system to work properly.<br><br>
-
-6. Make sure all things have been created.<br><br> 
+4. Configure your device according to the settings above.<br><br> 
  
-7. Please enjoy [Done].
+5. Please enjoy [Done].
 
 <br><br>
 
