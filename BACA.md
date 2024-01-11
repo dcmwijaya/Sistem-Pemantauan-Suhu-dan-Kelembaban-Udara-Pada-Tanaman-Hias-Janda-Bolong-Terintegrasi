@@ -10,7 +10,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 <br><br>
 
-## Fitur / Kerangka Kerja / Alat
+## Kebutuhan Proyek
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
@@ -44,7 +44,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 <br><br>
 
-## Perancangan Perangkat Keras
+## Rancangan Proyek
 <img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
 <br><br>
@@ -185,13 +185,9 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    
 3. Pastikan komponen anda telah dirancang sesuai dengan diagram.<br><br>
    
-4. Membuat akun untuk Platform IoT beserta layanannya.<br><br>
+4. Konfigurasikan perangkat anda menurut pengaturan di atas.<br><br>
     
-5. Jika Anda tidak menerapkan poin 2 dan 3 untuk tujuan pengembangan proyek, tidak masalah, tetapi perlu diketahui bahwa beberapa hal perlu diubah sesuai dengan kebutuhan Anda agar sistem dapat bekerja dengan baik.<br><br>
-    
-6. Pastikan semua Things telah dibuat.<br><br>
-  
-7. Selamat menikmati [Selesai].
+5. Selamat menikmati [Selesai].
 
 <br><br>
 
