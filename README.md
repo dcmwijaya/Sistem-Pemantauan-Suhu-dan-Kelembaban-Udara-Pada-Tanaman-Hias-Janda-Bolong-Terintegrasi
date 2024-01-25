@@ -24,7 +24,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Programming Language | C/C++, JavaScript, and PHP |
 | Arduino Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
-| Other Components | Micro usb cable (x1), Jumper cable, Casing (x1), ETC |
+| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Casing box (x1), and Adaptor DC 5V (x1) |
 
 <br><br>
 
