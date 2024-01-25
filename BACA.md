@@ -24,7 +24,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Bahasa Pemrograman | C/C++, JavaScript, dan PHP |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
-| Komponen Lainnya | Kabel micro usb (x1), Kabel jumper, Casing (x1), DLL |
+| Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Kotak casing (x1), dan Adaptor DC 5V (x1) |
 
 <br><br>
 
