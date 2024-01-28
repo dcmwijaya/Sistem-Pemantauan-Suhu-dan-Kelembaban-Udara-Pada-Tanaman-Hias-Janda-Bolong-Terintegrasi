@@ -13,7 +13,7 @@ This project is closely related to agricultural technology, where this tool is u
 ## Project Requirements
 | Media | Description |
 | --- | --- |
-| Board Development | NodeMCU V3 ESP8266 Lolin |
+| Development Board | NodeMCU V3 ESP8266 Lolin |
 | Code Editor | Arduino IDE & Visual Studio Code |
 | Driver | USB-Serial CH340 |
 | IoT Platform | ThingSpeak |
