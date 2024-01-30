@@ -11,7 +11,7 @@ This project is closely related to agricultural technology, where this tool is u
 <br><br>
 
 ## Project Requirements
-| Media | Description |
+| Part | Description |
 | --- | --- |
 | Development Board | NodeMCU V3 ESP8266 Lolin |
 | Code Editor | Arduino IDE & Visual Studio Code |
