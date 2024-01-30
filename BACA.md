@@ -11,7 +11,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 <br><br>
 
 ## Kebutuhan Proyek
-| Media | Deskripsi |
+| Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
 | Editor Kode | Arduino IDE & Visual Studio Code |
