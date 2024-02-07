@@ -15,11 +15,11 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | --- | --- |
 | Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
 | Editor Kode | Arduino IDE & Visual Studio Code |
+| Dukungan Aplikasi | Bot Telegram |
 | Driver | USB-Serial CH340 |
 | Platform IoT | ThingSpeak |
 | Protokol IoT | HTTP |
 | Arsitektur IoT | 4 Lapisan |
-| Telegram | API Bot Telegram |
 | Kerangka Kerja | Bootstrap |
 | Bahasa Pemrograman | C/C++, JavaScript, dan PHP |
 | Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
@@ -75,7 +75,9 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 8. Sebelum mengunggah program, silakan klik: ``` Verify ```.<br><br>
 
-9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.
+9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
+
+10. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
