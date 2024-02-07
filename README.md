@@ -15,11 +15,11 @@ This project is closely related to agricultural technology, where this tool is u
 | --- | --- |
 | Development Board | NodeMCU V3 ESP8266 Lolin |
 | Code Editor | Arduino IDE & Visual Studio Code |
+| Application Support | Telegram Bot |
 | Driver | USB-Serial CH340 |
 | IoT Platform | ThingSpeak |
 | IoT Protocol | HTTP |
 | IoT Architecture | 4 Layer |
-| Telegram | Telegram Bot API |
 | Framework | Bootstrap |
 | Programming Language | C/C++, JavaScript, and PHP |
 | Arduino Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
@@ -75,7 +75,9 @@ This project is closely related to agricultural technology, where this tool is u
 
 8. Before uploading the program please click: ``` Verify ```.<br><br>
 
-9. If there is no error in the program code, then please click: ``` Upload ```.
+9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
+
+10. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
