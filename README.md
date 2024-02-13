@@ -196,7 +196,7 @@ This project is closely related to agricultural technology, where this tool is u
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
-      </td></tr></table><br>
+      </td></tr></table>
    
       • Please go to the ``` API Keys ``` section -> paste it into the firmware code. For example :
    
@@ -206,7 +206,7 @@ This project is closely related to agricultural technology, where this tool is u
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
-      </td></tr></table><br>
+      </td></tr></table>
    
       • Click ``` Field Chart IFrame ``` to display the selected chart link -> paste the link into the web program code.
    
