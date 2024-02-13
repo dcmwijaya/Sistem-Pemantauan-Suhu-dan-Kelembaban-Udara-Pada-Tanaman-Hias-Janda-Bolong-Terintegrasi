@@ -51,7 +51,7 @@ This project is closely related to agricultural technology, where this tool is u
 <br><br>
 
 ## Project Designs
-<img width="840" src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
+<img width="840" src="https://github.com/devancakra/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi/assets/54527592/08eba2a3-35ae-458d-a896-c249854c938e">
 
 <br><br>
 
