@@ -221,7 +221,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
   
 2. Buka ``` index.php ``` yang ada di dalam direktori ``` Website-Project\iot-monstera\index.php ``` melalui ``` Visual Studio Code ```.<br><br>
    
-3. Tag ``` <iframe> ``` mohon sesuaikan dengan ``` tautan visualization / widget ``` yang ada di ``` ThingSpeak ```. Contohnya seperti berikut ini : 
+3. Tag ``` <iframe> ``` mohon sesuaikan dengan ``` tautan visualization / widget ``` yang ada di ``` ThingSpeak ```. Contohnya : 
 
    <table><tr><td width="810">
    
