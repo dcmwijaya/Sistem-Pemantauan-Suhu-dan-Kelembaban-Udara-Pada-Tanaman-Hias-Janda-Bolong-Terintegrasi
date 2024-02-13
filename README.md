@@ -81,7 +81,7 @@ This project is closely related to agricultural technology, where this tool is u
    <table>
       <tr><th width="810">
 
-      Cara mengatur board ``` NodeMCU V3 ESP8266 Lolin ```
+      How to setup the ``` NodeMCU V3 ESP8266 Lolin ``` board
             
       </th></tr>
       <tr><td>
