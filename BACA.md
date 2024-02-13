@@ -196,7 +196,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
-      </td></tr></table><br>
+      </td></tr></table>
    
       • Silakan anda beralih ke bagian ``` API Keys ``` -> tempelkan pada kode firmware. Contohnya :
 
@@ -206,7 +206,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
-      </td></tr></table><br>
+      </td></tr></table>
    
       • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan chart yang dipilih -> tempelkan tautan tersebut ke dalam kode program web.
    
