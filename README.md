@@ -3,7 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi)
 ![Project-IOT](https://img.shields.io/badge/Project-Bot-%2DWeb%20of%20Things-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-
 # Monitoring-Suhu-Kelembapan-Udara-Tanaman-Hias-Janda-Bolong
 <strong>Team Project - Informatics UPN Veteran Jatim</strong><br><br>
 This project is closely related to agricultural technology, where this tool is used to monitor changes in air temperature and humidity in the environment around widow bolong plants in real time remotely anytime and anywhere. This tool is equipped with a Bot of Things (BoT) based interface that aims to facilitate users in caring for these ornamental plants. Janda bolong is a plant from the Araceae or taro species that can survive optimally at temperatures of 23-30 ° C and air humidity less than 40%.
@@ -14,38 +13,45 @@ This project is closely related to agricultural technology, where this tool is u
 | Part | Description |
 | --- | --- |
 | Development Board | NodeMCU V3 ESP8266 Lolin |
-| Code Editor | Arduino IDE & Visual Studio Code |
+| Code Editor | • Arduino IDE<br>• Visual Studio Code |
 | Application Support | Telegram Bot |
 | Driver | USB-Serial CH340 |
 | IoT Platform | ThingSpeak |
 | IoT Protocol | HTTP |
 | IoT Architecture | 4 Layer |
 | Framework | Bootstrap |
-| Programming Language | C/C++, JavaScript, and PHP |
-| Arduino Library | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
+| Programming Language | • C/C++<br>• JavaScript<br>• PHP |
+| Arduino Library | • Arduino Low Power<br>• ThingSpeak<br>• DHT Sensor Library<br>• WiFi<br>• CTBot |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
-| Other Components | Micro USB cable - USB type A (x1), Jumper cable (1 set), Casing box (x1), and Adaptor DC 5V (x1) |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Casing box (x1)<br>• Adaptor DC 5V (x1) |
 
 <br><br>
 
 ## Download & Install
 1. Arduino IDE
 
+   <table><tr><td width="810">
+
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. USB-Serial CH340
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/CH340_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 
 ## Project Designs
-<img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
+<img width="840" src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
 <br><br>
 
