@@ -241,7 +241,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    localhost/Website-Project/iot-monstera/index.php
    ```
 
-   </td></tr></table><br>
+   </td></tr></table>
     
 <br><br>
 
@@ -264,9 +264,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
 
-   </td></tr></table><br>
-   
-7. Jika gagal terkoneksi ke Bot Telegram, maka perkiraan masalahnya ada di bagian firmware. Silakan periksa lagi.
+   </td></tr></table>
 
 <br><br>
 
