@@ -256,9 +256,11 @@ This project is closely related to agricultural technology, where this tool is u
 
 5. Also do it for bot image settings, bot descriptions, and so on according to your needs.<br><br>
 
-6. Copy ``` your telegram bot API token ``` -> then paste it into the ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ``` section. For example :
+6. Copy ``` your telegram bot API token ``` -> then paste it into the ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ``` section. 
 
    <table><tr><td width="810">
+
+   For example :
 
    ```
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
