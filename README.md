@@ -56,26 +56,66 @@ This project is closely related to agricultural technology, where this tool is u
 <br><br>
 
 ## Arduino IDE Setup
-1. Open the ``` Arduino IDE ``` first, then open the project by clicking: ``` File ``` -> ``` Open ``` -> ``` monitoring_suhu.ino ```.<br><br>
-   
-2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE<br><br>
-   • Method: click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
-   
-   ```
-   http://arduino.esp8266.com/stable/package_esp8266com_index.json
-   ```
-   
-3. ``` Board Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp8266 ```. Then selecting a Board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.<br><br>
-   
-4. ``` Change the Board Speed ``` in Arduino IDE<br><br>
-   • Method: click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```.<br><br>
-   
-5. ``` Install Library ``` in Arduino IDE<br><br>
-   • Method: download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+1. Open the ``` Arduino IDE ``` first, then open the project by clicking ``` File ``` -> ``` Open ``` : 
 
-6. ``` Port Setup ``` in Arduino IDE<br><br>
-   • Method: click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```.<br><br>
+   <table><tr><td width="810">
+      
+      ``` monitoring_suhu.ino ```
+
+   </td></tr></table><br>
+   
+2. Fill in the ``` Additional Board Manager URLs ``` in Arduino IDE
+
+   <table><tr><td width="810">
+   
+      Click ``` File ``` -> ``` Preferences ``` -> enter the ``` Boards Manager Url ``` by copying the following link:
+      
+      ```
+      http://arduino.esp8266.com/stable/package_esp8266com_index.json
+      ```
+
+   </td></tr></table><br>
+   
+3. ``` Board Setup ``` in Arduino IDE
+
+   <table>
+      <tr><th width="810">
+
+      Cara mengatur board ``` NodeMCU V3 ESP8266 Lolin ```
+            
+      </th></tr>
+      <tr><td>
+         
+      • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp8266 ```. 
+      
+      • Then click ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
+
+      </td></tr>
+   </table><br>
+   
+4. ``` Change the Board Speed ``` in Arduino IDE
+
+   <table><tr><td width="810">
+   
+      Click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```
+
+   </td></tr></table><br>
+   
+5. ``` Install Library ``` in Arduino IDE
+
+   <table><tr><td width="810">
+   
+      Download all the library zip files. Then paste it in the: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
+
+   </td></tr></table><br>
+
+6. ``` Port Setup ``` in Arduino IDE
+
+   <table><tr><td width="810">
+   
+      Click ``` Port ``` -> Choose according to your device port ``` (you can see in device manager) ```
+
+   </td></tr></table><br>
 
 7. Change the ``` WiFi Name ```, ``` WiFi Password ```, and so on according to what you are currently using.<br><br>
 
@@ -83,7 +123,7 @@ This project is closely related to agricultural technology, where this tool is u
 
 9. If there is no error in the program code, then please click: ``` Upload ```.<br><br>
 
-10. If there is still a problem when uploading the program, then try to check the ``` driver ``` / ``` port ``` / ``` others ``` section.
+10. If there is still a problem when uploading the program, then try checking the ```driver ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
@@ -125,13 +165,13 @@ This project is closely related to agricultural technology, where this tool is u
 5. Firmware configuration :<br><br>
    • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
 
-   • Copy the ``` Channel ID ``` -> paste it into the firmware code. For example like this :
+   • Copy the ``` Channel ID ``` -> paste it into the firmware code. For example :
 
       ```
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
-   • Please go to the ``` API Keys ``` section -> paste it into the firmware code. Here is an example :
+   • Please go to the ``` API Keys ``` section -> paste it into the firmware code. For example :
 
       ```
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
@@ -148,7 +188,7 @@ This project is closely related to agricultural technology, where this tool is u
   
 2. Open ``` index.php ``` inside the ``` Website-Project\iot-monstera\index.php ``` directory via ``` Visual Studio Code ```.<br><br>
    
-3. The ``` <iframe> ``` tag please match the ``` visualization / widget link ``` in ``` ThingSpeak ```. For example like this :
+3. The ``` <iframe> ``` tag please match the ``` visualization / widget link ``` in ``` ThingSpeak ```. For example :
 
    ```
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
@@ -180,9 +220,6 @@ This project is closely related to agricultural technology, where this tool is u
    ```
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
-   <br>
-   
-7. If it fails to connect to the Telegram Bot, then the problem may be in the firmware. Please check again.
 
 <br><br>
 
