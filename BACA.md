@@ -56,26 +56,66 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 <br><br>
 
 ## Pengaturan Arduino IDE
-1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik: ``` File ``` -> ``` Open ``` -> ``` monitoring_suhu.ino ```.<br><br>
-   
-2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
-   
-   ```
-   http://arduino.esp8266.com/stable/package_esp8266com_index.json
-   ```
-   
-3. ``` Pengaturan Board ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp8266 ```. Kemudian pilih Board dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.<br><br>
-   
-4. ``` Ubah Kecepatan Papan ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```.<br><br>
-   
-5. ``` Instal Pustaka ``` di Arduino IDE<br><br>
-   • Cara: unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```.<br><br>
+1. Buka ``` Arduino IDE ``` terlebih dahulu, kemudian buka proyek dengan cara klik ``` File ``` -> ``` Open ``` :  
 
-6. ``` Pengaturan Port ``` di Arduino IDE<br><br>
-   • Cara: klik ``` Port ``` -> Pilih sesuai dengan port perangkat Anda ``` (Anda dapat melihatnya di Device Manager) ```.<br><br>
+   <table><tr><td width="810">
+      
+      ``` monitoring_suhu.ino ```
+
+   </td></tr></table><br>
+   
+2. Isi ``` Url Pengelola Papan Tambahan ``` di Arduino IDE 
+
+   <table><tr><td width="810">
+   
+      Klik ``` File ``` -> ``` Preferences ``` -> masukkan ``` Boards Manager Url ``` dengan menyalin tautan berikut:
+      
+      ```
+      http://arduino.esp8266.com/stable/package_esp8266com_index.json
+      ```
+
+   </td></tr></table><br>
+   
+3. ``` Pengaturan Board ``` di Arduino IDE
+
+   <table>
+      <tr><th width="810">
+
+      Cara mengatur board ``` NodeMCU V3 ESP8266 Lolin ```
+            
+      </th></tr>
+      <tr><td>
+         
+      • Klik ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp8266 ```. 
+      
+      • Kemudian klik ``` Tools ``` -> ``` Board ``` -> ``` ESP8266 Boards ``` -> ``` NodeMCU 1.0 (ESP-12E Module) ```.
+
+      </td></tr>
+   </table><br>
+   
+4. ``` Ubah Kecepatan Papan ``` di Arduino IDE 
+
+   <table><tr><td width="810">
+   
+      Klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```
+
+   </td></tr></table><br>
+   
+5. ``` Instal Pustaka ``` di Arduino IDE 
+
+   <table><tr><td width="810">
+   
+      Unduh semua file zip pustaka. Kemudian tempelkan di: ``` C:\Users\Computer_Username\Documents\Arduino\libraries ```
+
+   </td></tr></table><br>
+
+6. ``` Pengaturan Port ``` di Arduino IDE 
+
+   <table><tr><td width="810">
+   
+      Klik ``` Port ``` -> Pilih sesuai dengan port perangkat anda ``` (anda dapat melihatnya di Device Manager) ```
+
+   </td></tr></table><br>
 
 7. Ubah ``` Nama WiFi ```, ``` Kata Sandi WiFi ```, dan sebagainya sesuai dengan apa yang Anda gunakan saat ini.<br><br>
 
@@ -83,63 +123,96 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 9. Jika tidak ada kesalahan dalam kode program, silakan klik: ``` Upload ```.<br><br>
 
-10. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
+10. Jika masih ada masalah saat unggah program, maka coba periksa pada bagian ``` driver ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
 ## Pengaturan ThingSpeak
-1. Memulai ThingSpeak :<br><br>
-   • Silakan <a href="https://thingspeak.com/login">Masuk</a> agar dapat mengakses layanan ThingSpeak.
+1. Memulai ThingSpeak : 
+
+   <table><tr><td width="810">
    
-   • Jika anda belum memiliki akun ThingSpeak silakan buat dulu.<br><br>
+      • Silakan <a href="https://thingspeak.com/login">Masuk</a> agar dapat mengakses layanan ThingSpeak.
+      
+      • Jika anda belum memiliki akun ThingSpeak silakan buat dulu.
 
-2. Membuat channel :<br><br>
-   • Setelah masuk ke dalam akun -> klik ``` New Channel ```.
+   </td></tr></table><br>
 
-   • Isi form sesuai dengan kebutuhan anda.
+2. Membuat channel : 
 
-   • Klik ``` Save Channel ```.
+   <table><tr><td width="810">
+   
+      • Setelah masuk ke dalam akun -> klik ``` New Channel ```.
+   
+      • Isi form sesuai dengan kebutuhan anda.
+   
+      • Klik ``` Save Channel ```.
+   
+      • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ``` silakan pilih -> ``` Share channel view with everyone ```.
 
-   • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ``` silakan pilih -> ``` Share channel view with everyone ```.<br><br>
+   </td></tr></table><br>
 
-3. Membuat visualization :<br><br>
-   • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
+3. Membuat visualization : 
 
-   • Klik ``` + Add Visualization ```.
+   <table><tr><td width="810">
+   
+      • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
+   
+      • Klik ``` + Add Visualization ```.
+   
+      • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
+   
+      • Jika ingin mengubah isi visualisasi, silakan klik ``` Field Chart Option ``` -> kemudian pilih ``` Save ``` untuk menyimpan.
 
-   • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
+   </td></tr></table><br>
 
-   • Jika ingin mengubah isi visualisasi, silakan klik ``` Field Chart Option ``` -> kemudian pilih ``` Save ``` untuk menyimpan.<br><br>
+4. Membuat widget : 
 
-4. Membuat widget :<br><br>
-   • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
+   <table><tr><td width="810">
+   
+      • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
+   
+      • Klik ``` + Add Widgets ```.
+   
+      • Klik ``` Numeric Display ``` -> kemudian pilih ``` Next ```.
+   
+      • Pada bagian ``` Configure widget parameters ``` silakan isi sesuai dengan kebutuhan anda -> kemudian pilih ``` Create ```.
+   
+      • Jika ingin mengubah isi widget, silakan klik ``` Widget Options ``` -> kemudian pilih ``` Save ``` untuk menyimpan.
 
-   • Klik ``` + Add Widgets ```.
+   </td></tr></table><br>
 
-   • Klik ``` Numeric Display ``` -> kemudian pilih ``` Next ```.
+5. Konfigurasi firmware : 
 
-   • Pada bagian ``` Configure widget parameters ``` silakan isi sesuai dengan kebutuhan anda -> kemudian pilih ``` Create ```.
+   <table><tr><td width="810">
+   
+      • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
+   
+      • Salin ``` Channel ID ``` -> tempelkan pada kode firmware. Contohnya :
 
-   • Jika ingin mengubah isi widget, silakan klik ``` Widget Options ``` -> kemudian pilih ``` Save ``` untuk menyimpan.<br><br>
-
-5. Konfigurasi firmware :<br><br>
-   • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Public View ```.
-
-   • Salin ``` Channel ID ``` -> tempelkan pada kode firmware. Contohnya seperti ini :
-
+      <table><tr><td width="810">
+   
       ```
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
-   • Silakan anda beralih ke bagian ``` API Keys ``` -> tempelkan pada kode firmware. Berikut ini adalah contohnya :
+      </td></tr></table><br>
+   
+      • Silakan anda beralih ke bagian ``` API Keys ``` -> tempelkan pada kode firmware. Contohnya :
 
+      <table><tr><td width="810">
+   
       ```
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
-   • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan chart yang dipilih -> tempelkan tautan tersebut ke dalam kode program web.
+      </td></tr></table><br>
+   
+      • Klik ``` Field Chart IFrame ``` untuk menampilkan tautan chart yang dipilih -> tempelkan tautan tersebut ke dalam kode program web.
+   
+      • Klik ``` Widget IFrame ``` untuk menampilkan tautan widget yang dipilih -> tempelkan tautan tersebut ke dalam kode program web.
 
-   • Klik ``` Widget IFrame ``` untuk menampilkan tautan widget yang dipilih -> tempelkan tautan tersebut ke dalam kode program web.
+   </td></tr></table>
 
 <br><br>
 
@@ -148,19 +221,27 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
   
 2. Buka ``` index.php ``` yang ada di dalam direktori ``` Website-Project\iot-monstera\index.php ``` melalui ``` Visual Studio Code ```.<br><br>
    
-3. Tag ``` <iframe> ``` mohon sesuaikan dengan ``` tautan visualization / widget ``` yang ada di ``` ThingSpeak ```. Contohnya seperti berikut ini :
+3. Tag ``` <iframe> ``` mohon sesuaikan dengan ``` tautan visualization / widget ``` yang ada di ``` ThingSpeak ```. Contohnya seperti berikut ini : 
 
+   <table><tr><td width="810">
+   
    ```
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
    ```
+
+   </td></tr></table><br>
    
 4. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br><br>
    
-5. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan :
+5. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan : 
+
+   <table><tr><td width="810">
    
-    ```
-    localhost/Website-Project/iot-monstera/index.php
-    ```
+   ```
+   localhost/Website-Project/iot-monstera/index.php
+   ```
+
+   </td></tr></table><br>
     
 <br><br>
 
@@ -175,12 +256,15 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 
 5. Lakukan juga untuk pengaturan gambar bot, deskripsi bot, dan lain sebagainya menyesuaikan dengan kebutuhan anda.<br><br>
 
-6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. Contohnya yaitu :
+6. Salin ``` API token bot telegram anda ``` -> lalu tempelkan pada bagian ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ```. Contohnya : 
 
+   <table><tr><td width="810">
+   
    ```
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
-   <br>
+
+   </td></tr></table><br>
    
 7. Jika gagal terkoneksi ke Bot Telegram, maka perkiraan masalahnya ada di bagian firmware. Silakan periksa lagi.
 
