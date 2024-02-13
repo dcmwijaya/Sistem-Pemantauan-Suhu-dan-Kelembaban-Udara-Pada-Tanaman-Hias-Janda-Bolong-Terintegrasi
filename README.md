@@ -190,7 +190,7 @@ This project is closely related to agricultural technology, where this tool is u
    
       • Copy the ``` Channel ID ``` -> paste it into the firmware code. For example :
    
-      <table><tr><td width="810">
+      <table><tr><td width="780">
 
       ```
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
@@ -200,7 +200,7 @@ This project is closely related to agricultural technology, where this tool is u
    
       • Please go to the ``` API Keys ``` section -> paste it into the firmware code. For example :
    
-      <table><tr><td width="810">
+      <table><tr><td width="780">
 
       ```
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
