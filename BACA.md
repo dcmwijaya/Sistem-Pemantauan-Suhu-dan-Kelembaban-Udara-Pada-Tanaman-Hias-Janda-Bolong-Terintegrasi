@@ -3,7 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi)
 ![Project-IOT](https://img.shields.io/badge/Project-Bot-%2DWeb%20of%20Things-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-
 # Monitoring-Suhu-Kelembapan-Udara-Tanaman-Hias-Janda-Bolong
 <strong>Proyek Tim - Informatika UPN Veteran Jatim</strong><br><br>
 Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini digunakan untuk memonitoring perubahan suhu udara dan kelembaban udara di lingkungan sekitar tanaman janda bolong secara real time dari jarak jauh kapanpun dan dimanapun. Alat ini dilengkapi dengan antarmuka berbasis Bot of Things (BoT) yang bertujuan untuk memudahkan pengguna dalam merawat tanaman hias tersebut. Janda bolong merupakan tanaman dari suku Araceae atau talas-talasan yang dapat bertahan hidup secara optimal pada suhu 23-30°C dan kelembaban udara kurang dari 40%.
@@ -14,38 +13,45 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
-| Editor Kode | Arduino IDE & Visual Studio Code |
+| Editor Kode | • Arduino IDE<br>• Visual Studio Code |
 | Dukungan Aplikasi | Bot Telegram |
 | Driver | USB-Serial CH340 |
 | Platform IoT | ThingSpeak |
 | Protokol IoT | HTTP |
 | Arsitektur IoT | 4 Lapisan |
 | Kerangka Kerja | Bootstrap |
-| Bahasa Pemrograman | C/C++, JavaScript, dan PHP |
-| Pustaka Arduino | Arduino Low Power, ThingSpeak, DHT Sensor Library, WiFi, & CTBot |
+| Bahasa Pemrograman | • C/C++<br>• JavaScript<br>• PHP |
+| Pustaka Arduino | • Arduino Low Power<br>• ThingSpeak<br>• DHT Sensor Library<br>• WiFi<br>• CTBot |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
-| Komponen Lainnya | Kabel Mikro USB - USB tipe A (x1), Kabel jumper (1 set), Kotak casing (x1), dan Adaptor DC 5V (x1) |
+| Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Kotak casing (x1)<br>• Adaptor DC 5V (x1) |
 
 <br><br>
 
 ## Unduh & Instal
 1. Arduino IDE
 
+   <table><tr><td width="810">
+
    ```
    https://www.arduino.cc/en/software
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. USB-Serial CH340
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/CH340_Driver
    ```
+
+   </td></tr></table>
    
 <br><br>
 
 ## Rancangan Proyek
-<img src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
+<img width="840" src="https://user-images.githubusercontent.com/54527592/133961211-2cd3fda2-a9fe-4381-9cca-1816b0ae1f60.jpg">
 
 <br><br>
 
