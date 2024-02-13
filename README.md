@@ -17,7 +17,7 @@ This project is closely related to agricultural technology, where this tool is u
 | Application Support | Telegram Bot |
 | Driver | USB-Serial CH340 |
 | IoT Platform | ThingSpeak |
-| IoT Protocol | HTTP |
+| Communications Protocol | • HTTP<br>• MTProto |
 | IoT Architecture | 4 Layer |
 | Framework | Bootstrap |
 | Programming Language | • C/C++<br>• JavaScript<br>• PHP |
