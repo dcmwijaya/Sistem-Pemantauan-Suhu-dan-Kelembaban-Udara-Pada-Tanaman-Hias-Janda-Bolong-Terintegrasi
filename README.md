@@ -128,58 +128,91 @@ This project is closely related to agricultural technology, where this tool is u
 <br><br>
 
 ## ThingSpeak Setup
-1. Getting started with ThingSpeak :<br><br>
-   • Please <a href="https://thingspeak.com/login">Log in</a> to access the ThingSpeak service.
+1. Getting started with ThingSpeak :
+
+   <table><tr><td width="810">
+
+      • Please <a href="https://thingspeak.com/login">Log in</a> to access the ThingSpeak service.
+      
+      • If you don't have a ThingSpeak account yet, please create one.
+
+   </td></tr></table><br>
+
+2. Create a channel :
+
+   <table><tr><td width="810">
+
+      • After logging into the account -> click ``` New Channel ```.
    
-   • If you don't have a ThingSpeak account yet, please create one.<br><br>
+      • Fill in the form according to your needs.
+   
+      • Click ``` Save Channel ```.
+   
+      • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section please select -> ``` Share channel view with everyone ```.
 
-2. Create a channel :<br><br>
-   • After logging into the account -> click ``` New Channel ```.
+   </td></tr></table><br>
 
-   • Fill in the form according to your needs.
+3. Create visualizations :
 
-   • Click ``` Save Channel ```.
+   <table><tr><td width="810">
 
-   • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section please select -> ``` Share channel view with everyone ```.<br><br>
+      • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+   
+      • Click ``` + Add Visualization ```.
+   
+      • Click ``` Field Chart ``` -> then select ``` Save ```.
+   
+      • If you want to change the visualization content, please click ``` Field Chart Option ``` -> then select ``` Save ``` to save.
 
-3. Create visualizations :<br><br>
-   • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+   </td></tr></table><br>
 
-   • Click ``` + Add Visualization ```.
+4. Create widgets :
 
-   • Click ``` Field Chart ``` -> then select ``` Save ```.
+   <table><tr><td width="810">
 
-   • If you want to change the visualization content, please click ``` Field Chart Option ``` -> then select ``` Save ``` to save.<br><br>
+      • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+   
+      • Click ``` + Add Widgets ```.
+   
+      • Click ``` Numeric Display ``` -> then select ``` Next ```.
+   
+      • In the ``` Configure widget parameters ``` section, please fill in according to your needs -> then select ``` Create ```.
+   
+      • If you want to change the widget content, please click ``` Widget Option ``` -> then select ``` Save ``` to save.
 
-4. Create widgets :<br><br>
-   • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+   </td></tr></table><br>
 
-   • Click ``` + Add Widgets ```.
+5. Firmware configuration :
 
-   • Click ``` Numeric Display ``` -> then select ``` Next ```.
+   <table><tr><td width="810">
 
-   • In the ``` Configure widget parameters ``` section, please fill in according to your needs -> then select ``` Create ```.
-
-   • If you want to change the widget content, please click ``` Widget Option ``` -> then select ``` Save ``` to save.<br><br>
-
-5. Firmware configuration :<br><br>
-   • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
-
-   • Copy the ``` Channel ID ``` -> paste it into the firmware code. For example :
+      • Make sure you are in the ``` Channel ``` menu -> ``` Public View ``` section.
+   
+      • Copy the ``` Channel ID ``` -> paste it into the firmware code. For example :
+   
+      <table><tr><td width="810">
 
       ```
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
-   • Please go to the ``` API Keys ``` section -> paste it into the firmware code. For example :
+      </td></tr></table><br>
+   
+      • Please go to the ``` API Keys ``` section -> paste it into the firmware code. For example :
+   
+      <table><tr><td width="810">
 
       ```
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
-   • Click ``` Field Chart IFrame ``` to display the selected chart link -> paste the link into the web program code.
+      </td></tr></table><br>
+   
+      • Click ``` Field Chart IFrame ``` to display the selected chart link -> paste the link into the web program code.
+   
+      • Click ``` Widget IFrame ``` to display the selected widget link -> paste the link into the web program code.
 
-   • Click ``` Widget IFrame ``` to display the selected widget link -> paste the link into the web program code.
+   </td></tr></table>
 
 <br><br>
 
@@ -190,17 +223,25 @@ This project is closely related to agricultural technology, where this tool is u
    
 3. The ``` <iframe> ``` tag please match the ``` visualization / widget link ``` in ``` ThingSpeak ```. For example :
 
+   <table><tr><td width="810">
+
    ```
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
    ```
+
+   </td></tr></table><br>
    
 4. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.<br><br>
    
 5. To ``` access the website ```, open your ``` browser ``` by writing :
+
+   <table><tr><td width="810">
    
-    ```bash
+    ```
     localhost/Website-Project/iot-monstera/index.php
     ```
+
+   </td></tr></table>
     
 <br><br>
 
@@ -217,9 +258,13 @@ This project is closely related to agricultural technology, where this tool is u
 
 6. Copy ``` your telegram bot API token ``` -> then paste it into the ``` #define BOTtoken "YOUR_API_BOT_TOKEN" ``` section. For example :
 
+   <table><tr><td width="810">
+
    ```
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
+
+   </td></tr></table>
 
 <br><br>
 
