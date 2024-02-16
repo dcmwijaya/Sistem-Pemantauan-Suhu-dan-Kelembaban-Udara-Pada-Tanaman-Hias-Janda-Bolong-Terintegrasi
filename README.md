@@ -21,7 +21,7 @@ This project is closely related to agricultural technology, where this tool is u
 | IoT Architecture | 4 Layer |
 | Framework | Bootstrap |
 | Programming Language | • C/C++<br>• JavaScript<br>• PHP |
-| Arduino Library | • ESP8266WiFi (default)<br>• ThingSpeak<br>• DHT Sensor Library<br>• CTBot |
+| Arduino Library | • ESP8266WiFi (default)<br>• ThingSpeak<br>• DHT Sensor Library<br>• CTBot<br>• ArduinoJson |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Casing box (x1)<br>• Adaptor DC 5V (x1) |
 
