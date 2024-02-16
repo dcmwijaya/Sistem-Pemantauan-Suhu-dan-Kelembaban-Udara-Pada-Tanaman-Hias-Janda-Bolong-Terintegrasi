@@ -1,5 +1,4 @@
 #include <ESP8266WiFi.h> // library Wifi NodeMCU ESP8266
-#include <WiFiClient.h> // library client
 #include <DHT.h> // library DHT
 #include <ThingSpeak.h> // library platform thingspeak
 #include <CTBot.h> // library chatbot telegram
