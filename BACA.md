@@ -21,7 +21,7 @@ Proyek ini sangat erat kaitannya dengan teknologi pertanian, dimana alat ini dig
 | Arsitektur IoT | 4 Lapisan |
 | Kerangka Kerja | Bootstrap |
 | Bahasa Pemrograman | • C/C++<br>• JavaScript<br>• PHP |
-| Pustaka Arduino | • Arduino Low Power<br>• ThingSpeak<br>• DHT Sensor Library<br>• WiFi<br>• CTBot |
+| Pustaka Arduino | • ESP8266WiFi (bawaan)<br>• ThingSpeak<br>• DHT Sensor Library<br>• CTBot<br>• ArduinoJson |
 | Sensor | DHT22: Air Temperature & Humidity (x1) |
 | Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Kotak casing (x1)<br>• Adaptor DC 5V (x1) |
 
