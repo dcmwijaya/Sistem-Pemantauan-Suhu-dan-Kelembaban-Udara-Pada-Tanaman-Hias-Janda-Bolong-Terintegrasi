@@ -5,7 +5,7 @@
 
 # Monitoring-Suhu-Kelembapan-Udara-Tanaman-Hias-Janda-Bolong
 <strong>Proyek Tim - Informatika UPN Veteran Jatim</strong><br><br>
-Janda bolong merupakan tanaman dari spesies Araceae atau talas-talasan yang dapat bertahan hidup secara optimum di suhu 23-30°C dengan kelembapan udara kurang dari 40%. Suhu dan kelembapan udara ini benar-benar harus diperhatikan, sebab perubahan yang ekstrim bisa memicu tanaman hias janda bolong menjadi layu. Tujuan diadakannya proyek ini adalah untuk menciptakan sebuah sistem yang dapat memantau suhu dan kelembapan udara secara realtime. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 1 bulan. Manfaat dari pembuatan proyek ini tidak lain adalah untuk menambah wawasan. Hasil penelitian menunjukkan bahwa sistem yang dibuat dapat berfungsi dengan baik. Antarmuka sistem dapat menggunakan Bot Telegram dan Website.
+Janda bolong merupakan tanaman dari spesies Araceae atau talas-talasan yang dapat bertahan hidup secara optimum di suhu 23-30°C dengan kelembapan udara kurang dari 40%. Suhu dan kelembapan udara harus diperhatikan setiap saat, sebab perubahan yang ekstrim bisa memicu tanaman ini menjadi layu. Tujuan diadakannya proyek ini adalah untuk menciptakan sebuah sistem yang dapat memantau suhu dan kelembapan udara secara realtime. Hal ini dimaksudkan agar pengawasan menjadi lebih fleksibel, karena pengguna tidak harus datang ke lokasi secara langsung. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 1 bulan. Manfaat dari pembuatan proyek ini tidak lain adalah untuk menambah wawasan. Hasil penelitian menunjukkan bahwa sistem yang dibuat dapat berfungsi dengan baik. Antarmuka sistem dapat menggunakan Bot Telegram maupun Website.
 
 <br><br>
 
