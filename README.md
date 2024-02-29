@@ -5,7 +5,7 @@
 
 # Monitoring-Suhu-Kelembapan-Udara-Tanaman-Hias-Janda-Bolong
 <strong>Team Project - Informatics UPN Veteran Jatim</strong><br><br>
-Janda bolong is a plant from the Araceae or taro species that can survive optimally in temperatures of 23-30°C, with air humidity of less than 40%. Temperature and humidity must be monitored at all times, as extreme changes can cause the plant to wilt. This project was created to make it easier for users to monitor changes in temperature and humidity in the widow bolong planting area in real time, so that users will benefit more in terms of time and energy. This project has been implemented and took approximately 1 month. The benefit of making this project is none other than to maintain the growth and development of janda bolong plants. The results showed that the system created can function properly. The system interface uses Telegram Bot and Website.
+Janda bolong is a plant from the Araceae or taro species that can survive optimally in temperatures of 23-30°C, with air humidity of less than 40%. Temperature and humidity must be monitored at all times, as extreme changes can cause the plant to wilt. This project was created to make it easier for users to monitor changes in temperature and humidity in the janda bolong planting area in real time, so that users will benefit more in terms of time and energy. This project has been implemented and took approximately 1 month. The benefit of making this project is none other than to maintain the growth and development of janda bolong plants. The results showed that the system created can function properly. The system interface uses Telegram Bot and Website.
 
 <br><br>
 
