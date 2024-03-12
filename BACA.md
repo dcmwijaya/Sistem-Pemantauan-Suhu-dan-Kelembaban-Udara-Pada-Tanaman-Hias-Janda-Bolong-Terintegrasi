@@ -192,7 +192,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 
       <table><tr><td width="780">
    
-      ```
+      ```ino
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
@@ -202,7 +202,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 
       <table><tr><td width="780">
    
-      ```
+      ```ino
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
@@ -225,7 +225,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 
    <table><tr><td width="810">
    
-   ```
+   ```html
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
    ```
 
@@ -233,15 +233,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
    
 4. Buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br><br>
    
-5. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan : 
-
-   <table><tr><td width="810">
-   
-   ```
-   localhost/Website-Project/iot-monstera/index.php
-   ```
-
-   </td></tr></table>
+5. Untuk ``` mengakses situs web ```, buka ``` peramban ``` anda dengan menuliskan :  ``` localhost/Website-Project/iot-monstera/index.php ```.
     
 <br><br>
 
