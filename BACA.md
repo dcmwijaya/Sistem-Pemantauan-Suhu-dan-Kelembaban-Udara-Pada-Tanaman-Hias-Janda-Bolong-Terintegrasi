@@ -254,7 +254,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 
    Contohnya :
    
-   ```
+   ```ino
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
 
