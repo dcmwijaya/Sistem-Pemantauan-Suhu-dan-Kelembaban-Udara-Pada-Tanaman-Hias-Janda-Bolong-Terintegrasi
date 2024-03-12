@@ -192,7 +192,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
    
       <table><tr><td width="780">
 
-      ```
+      ```ino
       unsigned long ChannelID = '1504372'; // ID ThingSpeak
       ```
 
@@ -202,7 +202,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
    
       <table><tr><td width="780">
 
-      ```
+      ```ino
       const char * APIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
       ```
 
@@ -225,7 +225,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 
    <table><tr><td width="810">
 
-   ```
+   ```html
    <iframe style="width:85%;height:240px;" src="https://thingspeak.com/channels/1504372/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Grafik+%28Temperatur+Udara%29&type=line"></iframe>
    ```
 
@@ -233,15 +233,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
    
 4. Open ``` XAMPP ```, then start the ``` Apache ``` section. This aims to be able to support the website optimally.<br><br>
    
-5. To ``` access the website ```, open your ``` browser ``` by writing :
-
-   <table><tr><td width="810">
-   
-    ```
-    localhost/Website-Project/iot-monstera/index.php
-    ```
-
-   </td></tr></table>
+5. To ``` access the website ```, open your ``` browser ``` by writing : ``` localhost/Website-Project/iot-monstera/index.php ```.
     
 <br><br>
 
@@ -262,7 +254,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 
    For example :
 
-   ```
+   ```ino
    #define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0"
    ```
 
