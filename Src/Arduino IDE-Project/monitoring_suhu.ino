@@ -13,7 +13,7 @@ const char *ssid = "YOUR_WIFI_NAME"; // nama wifi router
 const char *password = "YOUR_WIFI_PASSWORD"; // password wifi router
 WiFiClient client; // mengecek jika client sudah terhubung
 
-#define BOTtoken "2006772150:AAE6Fdjk3KbiySkzV6CLbd6ClJDzgTfJ5y0" //token bot telegram
+#define BOTtoken "YOUR_API_BOT_TOKEN" //token bot telegram
 
 unsigned long ChannelID = 'YOUR_CHANNEL_ID_THINGSPEAK'; // ID ThingSpeak
 const char * APIKey = "YOUR_WRITEAPIKEY_THINGSPEAK"; // Apikey ThingSpeak
