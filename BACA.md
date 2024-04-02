@@ -51,7 +51,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 <br><br>
 
 ## Rancangan Proyek
-<img width="840" src="https://github.com/devancakra/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi/assets/54527592/08eba2a3-35ae-458d-a896-c249854c938e">
+<img width="840" src="https://github.com/devancakra/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi/assets/54527592/6a251217-20c2-4576-8f6a-d9e64415f456">
 
 <br><br>
 
