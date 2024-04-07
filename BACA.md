@@ -15,7 +15,7 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 | Papan Pengembangan | NodeMCU V3 ESP8266 Lolin |
 | Editor Kode | • Arduino IDE<br>• Visual Studio Code |
 | Dukungan Aplikasi | Bot Telegram |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | Platform IoT | ThingSpeak |
 | Protokol Komunikasi | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |
 | Arsitektur IoT | 4 Lapisan |
@@ -33,17 +33,17 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
    <table><tr><td width="810">
 
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. USB-Serial CH340
+2. CH340 USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
 
    </td></tr></table>
