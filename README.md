@@ -15,7 +15,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 | Development Board | NodeMCU V3 ESP8266 Lolin |
 | Code Editor | • Arduino IDE<br>• Visual Studio Code |
 | Application Support | Telegram Bot |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | IoT Platform | ThingSpeak |
 | Communications Protocol | • Hypertext Transfer Protocol (HTTP)<br>• MTProto |
 | IoT Architecture | 4 Layer |
@@ -33,17 +33,17 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
    <table><tr><td width="810">
 
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
 
-2. USB-Serial CH340
+2. CH340 USB Driver
 
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
 
    </td></tr></table>
