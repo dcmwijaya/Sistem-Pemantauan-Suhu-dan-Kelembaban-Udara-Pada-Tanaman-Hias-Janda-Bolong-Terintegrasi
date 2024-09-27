@@ -275,6 +275,17 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 
 <br><br>
 
+## IoT Project Team Member
+| NUMBER | FULL NAME | NPM | ROLE |
+| --- | --- | --- | --- |
+| 1 | Devan Cakra Mudra Wijaya | 18081010013 | Fullstack |
+| 2 | Heri Khariono | 18081010002 | Frontend |
+| 3 | Rifky Akhmad Fernanda | 18081010126 | System Analyst |
+| 4 | Merdin Risalul Abrori | 18081010081 | System Analyst |
+| 5 | Haidar Ananta Kusuma | 18081010057 | Documentalist |
+
+<br><br>
+
 ## Demonstration of Application
 Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 
