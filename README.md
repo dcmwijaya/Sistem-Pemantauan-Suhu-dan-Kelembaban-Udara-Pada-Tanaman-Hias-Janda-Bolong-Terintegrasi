@@ -51,7 +51,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 <br><br>
 
 ## Project Designs
-<img width="840" src="https://github.com/devancakra/Sistem-Pemantauan-Suhu-dan-Kelembapan-Udara-Pada-Tanaman-Hias-Janda-Bolong-Terintegrasi/assets/54527592/6a251217-20c2-4576-8f6a-d9e64415f456">
+<img width="840" src="Assets/Documentation/Pictorial Diagram.jpg" alt="pictorial-diagram">
 
 <br><br>
 
@@ -294,27 +294,29 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 ## Highlights
 <table>
 <tr>
-<th width="840">Product View</th>
+<th width="420">Temperature and Humidity Device</th>
+<th width="420">Monitoring Via Serial Monitor</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/133962095-8baa3737-3bf0-4d6b-bc65-c0cff1c37021.jpg" alt="product-view"></td>
-</tr>
-</table>
-<table>
-<tr>
-<th colspan="2">Telegram Bot View</th>
-</tr>
-<tr>
-<td width="420"><img src="https://user-images.githubusercontent.com/54527592/133962195-70e38df7-8e56-422b-ba30-3b42a642c62b.JPG" alt="bot-menu1"></td>
-<td width="420"><img src="https://user-images.githubusercontent.com/54527592/133962202-2399d06a-4f97-4335-86b4-4c043d7d1d17.JPG" alt="bot-menu2"></td>
+<td width="420"><img src="Assets/Documentation/Device.jpg" alt="temp-humid-device"></td>
+<td width="420"><img src="Assets/Documentation/Serial Monitor.JPG" alt="serial-monitor"></td>
 </tr>
 </table>
 <table>
 <tr>
-<th width="840">Monitoring Website View</th>
+<th colspan="2">Monitoring Via Telegram Bot</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/133962162-8856e20d-9e84-43c4-ac4a-0316d2c65004.jpg" alt="monitoring-web-view"></td>
+<td width="420"><img src="Assets/Documentation/Telegram Bot-1.JPG" alt="bot-menu1"></td>
+<td width="420"><img src="Assets/Documentation/Telegram Bot-2.JPG" alt="bot-menu2"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Monitoring Via Website</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Web Monitoring.jpg" alt="monitoring-web-view"></td>
 </tr>
 </table>
 
