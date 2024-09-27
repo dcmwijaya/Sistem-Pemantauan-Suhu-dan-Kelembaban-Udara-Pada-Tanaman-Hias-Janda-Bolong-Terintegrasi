@@ -275,6 +275,17 @@ Janda bolong adalah tanaman dari spesies Araceae atau talas-talasan yang dapat b
 
 <br><br>
 
+## Anggota Tim Proyek IoT
+| NOMOR | NAMA LENGKAP | NPM | PERAN |
+| --- | --- | --- | --- |
+| 1 | Devan Cakra Mudra Wijaya | 18081010013 | Fullstack |
+| 2 | Heri Khariono | 18081010002 | Frontend |
+| 3 | Rifky Akhmad Fernanda | 18081010126 | Analis Sistem |
+| 4 | Merdin Risalul Abrori | 18081010081 | Analis Sistem |
+| 5 | Haidar Ananta Kusuma | 18081010057 | Dokumentalis |
+
+<br><br>
+
 ## Demonstrasi Aplikasi
 Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 
