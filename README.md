@@ -51,7 +51,7 @@ Janda bolong is a plant from the Araceae or taro species that can survive optima
 <br><br>
 
 ## Project Designs
-<img width="840" src="Assets/Documentation/Pictorial Diagram.jpg" alt="pictorial-diagram">
+<img width="840" src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram">
 
 <br><br>
 
@@ -298,8 +298,8 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 <th width="420">Monitoring Via Serial Monitor</th>
 </tr>
 <tr>
-<td width="420"><img src="Assets/Documentation/Device.jpg" alt="temp-humid-device"></td>
-<td width="420"><img src="Assets/Documentation/Serial Monitor.JPG" alt="serial-monitor"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Device.jpg" alt="temp-humid-device"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Serial Monitor.JPG" alt="serial-monitor"></td>
 </tr>
 </table>
 <table>
@@ -307,8 +307,8 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 <th colspan="2">Monitoring Via Telegram Bot</th>
 </tr>
 <tr>
-<td width="420"><img src="Assets/Documentation/Telegram Bot-1.JPG" alt="bot-menu1"></td>
-<td width="420"><img src="Assets/Documentation/Telegram Bot-2.JPG" alt="bot-menu2"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Telegram Bot-1.JPG" alt="bot-menu1"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Telegram Bot-2.JPG" alt="bot-menu2"></td>
 </tr>
 </table>
 <table>
@@ -316,7 +316,7 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 <th width="840">Monitoring Via Website</th>
 </tr>
 <tr>
-<td><img src="Assets/Documentation/Web Monitoring.jpg" alt="monitoring-web-view"></td>
+<td><img src="Assets/Documentation/Experiment/Web Monitoring.jpg" alt="monitoring-web-view"></td>
 </tr>
 </table>
 
