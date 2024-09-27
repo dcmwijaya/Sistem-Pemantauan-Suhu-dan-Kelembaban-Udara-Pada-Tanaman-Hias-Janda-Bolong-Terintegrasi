@@ -299,7 +299,7 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 </tr>
 <tr>
 <td width="420"><img src="Assets/Documentation/Experiment/Device.jpg" alt="temp-humid-device"></td>
-<td width="420"><img src="Assets/Documentation/Experiment/Serial Monitor.JPG" alt="serial-monitor"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Serial Monitor.jpg" alt="serial-monitor"></td>
 </tr>
 </table>
 <table>
@@ -307,8 +307,8 @@ Via Telegram: <a href="https://t.me/monistera_bot">@monistera_bot</a>
 <th colspan="2">Pemantauan Melalui Bot Telegram</th>
 </tr>
 <tr>
-<td width="420"><img src="Assets/Documentation/Experiment/Telegram Bot-1.JPG" alt="bot-menu1"></td>
-<td width="420"><img src="Assets/Documentation/Experiment/Telegram Bot-2.JPG" alt="bot-menu2"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Telegram Bot-1.jpg" alt="bot-menu1"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Telegram Bot-2.jpg" alt="bot-menu2"></td>
 </tr>
 </table>
 <table>
